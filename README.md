@@ -23,29 +23,33 @@ If you have any questions, bug reports, or feature requests, feel free to submit
 
 ## Getting started
 
-1. Clone this repo: `git clone https://github.com/eegeo/eegeo-icon-tools.git`
-2. (Optional) Create a Python virtual environment to run the tools in.
+####1. Clone [this repo](https://github.com/eegeo/eegeo-icon-tools)
+```
+git clone https://github.com/eegeo/eegeo-icon-tools.git
+```
+
+####2. (Optional) Create a Python virtual environment to run the tools in.
 ```
 virtualenv IconToolsVenv
 source IconToolsVenv/bin/activate
 ```
-3. Install Inkscape
+####3. Install Inkscape
 
 Download and installation instructions for various platforms are here: https://inkscape.org/en/download/
 
 Here at eeGeo we install using [MacPorts](https://www.macports.org/) on Mac OS-X and [Choclatey](https://chocolatey.org/) on Windows.
 
-4. Install python dependencies.
+####4. Install python dependencies.
 
 ```
 pip install -r pip_requirements
 ```
 
-4. Build the icons for inclusion in mobile apps.
+####5. Build the icons for inclusion in mobile apps.
 
-5. Building icons for inclusions in a web app.
+####6. Building icons for inclusions in a web app.
 
-### Troubleshooting 
+## Troubleshooting 
 
 If you can encounter an error similar to this on Mac platforms:
 
