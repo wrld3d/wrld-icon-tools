@@ -11,7 +11,7 @@
 * [Troubleshooting](#troubleshooting)
 * [License](#license)
 
-### Summary
+## Summary
 
 This repository contains the code for preparing icons for use with the [eeGeo SDK](http://www.eegeo.com/), a cross-platform, OpenGL-based library for displaying beautiful, engaging 3D maps.
 
@@ -47,7 +47,19 @@ pip install -r pip_requirements
 
 ####5. Build the icons for inclusion in mobile apps.
 
+This tool prepares icon sheets for by the eeGeo SDK on mobile devices. See the [Eegeo Example App](https://github.com/eegeo/eegeo-example-app) for an example of a mobile app that uses the the eeGeo SDK.
+
+```
+sh build_icons_for_example_app.sh
+```
+
 ####6. Building icons for inclusions in a web app.
+
+This tool prepares icons for use by the eeGeo SDK in browser based apps. You can find out more about building embeddable 3D mapping apps using Javascript and Leaflet on our website [here](https://docs.eegeo.com/eegeo.js/latest/docs/api/)
+
+```
+sh build_icons_for_webgl.sh
+```
 
 ## Troubleshooting 
 
@@ -59,7 +71,7 @@ You might need to start dbus with:
 
 ```
 launchctl load -w /Library/LaunchAgents/org.freedesktop.dbus-session.plist
-````
+```
 
 ## License
 
