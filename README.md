@@ -53,7 +53,21 @@ This tool prepares icon sheets for by the eeGeo SDK on mobile devices. See the [
 sh build_icons_for_example_app.sh
 ```
 
-####6. Building icons for inclusions in a web app.
+This will generate the bitmap icons at various resolutions along with icon sheets. You can find them in the output/ directory.
+
+####8. Package up the icons for inclusion in mobile builds.
+
+```
+sh package_icons.sh
+```
+This packages up the icons for inclusion in a mobile app such as our [eeGeo Example App](https://github.com/eegeo/eegeo-example-app)
+
+Once this script has completed you will find the following directories under output/
+* android/ - Contains assets/ and res/ for copying into Android apps.
+* ios/ - Contains assets to copy into the Resources directory of an Apple iOS App.
+* windows/ - Contains assets to copy into the Resources directory of a Windows App.
+
+####7. Building icons for inclusions in a web app.
 
 This tool prepares icons for use by the eeGeo SDK in browser based apps. You can find out more about building embeddable 3D mapping apps using Javascript and Leaflet on our website [here](https://docs.eegeo.com/eegeo.js/latest/docs/api/)
 
