@@ -55,7 +55,7 @@ sh build_icons_for_example_app.sh
 
 This will generate the bitmap icons at various resolutions along with icon sheets. You can find them in the output/ directory.
 
-####8. Package up the icons for inclusion in mobile builds.
+####6. Package up the icons for inclusion in mobile builds.
 
 ```
 sh package_icons.sh
