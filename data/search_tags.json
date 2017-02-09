@@ -104,7 +104,8 @@
     { "tag": "wine", "readable_tag": "Wine", "icon_key": "wine" },
     { "tag": "working_group", "readable_tag": "Working group", "icon_key": "working_group" },
     { "tag": "youtube", "readable_tag": "Youtube", "icon_key": "youtube" },
-    { "tag": "zoo", "readable_tag": "Zoo", "icon_key": "zoo" }
+    { "tag": "zoo", "readable_tag": "Zoo", "icon_key": "zoo" },
+    { "tag": "bulb", "readable_tag: "Bulb", "icon_key": bulb" }
   ],
   "default_readable_tag": "Unknown",
   "default_icon_key": "misc"

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>Icon_NXP_Bulb_Pin</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icon_NXP_Bulb_Pin">
+      <rect width="72" height="72" style="fill: #fff;opacity: 0"/>
+      <path id="_Compound_Path_" data-name="&lt;Compound Path&gt;" d="M41,45H31a1.84,1.84,0,0,1-1.84-1.84V41a7.23,7.23,0,0,0-1.63-4.66A10.82,10.82,0,0,1,25,29.24a11,11,0,1,1,22,0,10.85,10.85,0,0,1-2.58,7.07A7.21,7.21,0,0,0,42.81,41v2.19A1.84,1.84,0,0,1,41,45" style="fill: #231f20"/>
+      <path id="_Path_" data-name="&lt;Path&gt;" d="M41,51H31a1.53,1.53,0,1,1,0-3H41a1.53,1.53,0,1,1,0,3" style="fill: #231f20"/>
+      <path id="_Path_2" data-name="&lt;Path&gt;" d="M64.47,36H62.94A26.93,26.93,0,1,1,55,16.95,26.85,26.85,0,0,1,62.94,36H66A30,30,0,1,0,36,66,30,30,0,0,0,66,36Z" style="fill: #231f20"/>
+    </g>
+  </g>
+</svg>

@@ -1,6 +1,6 @@
 {
  "cell-size": 28,
- "sheet-size": 320,
+ "sheet-size": 480,
  "mode": "sheet",
  "icon-size": 24,
  "icons": [
@@ -493,6 +493,10 @@
    "outline-color": "#51614C",
    "color": "#DFFAD2",
    "shadow-color": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "id": "bulb",
+  "file": "pin/Bulb_Pin.svg"
   }
  ]
 }

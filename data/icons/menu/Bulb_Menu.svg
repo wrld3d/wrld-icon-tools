@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>Icon_NXP_Bulb_Menu</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icon_NXP_Bulb_Menu">
+      <rect width="108" height="108" style="fill: #fff;opacity: 0"/>
+      <path id="_Compound_Path_" data-name="&lt;Compound Path&gt;" d="M61.45,69H46.54a2.76,2.76,0,0,1-2.76-2.76V63a10.85,10.85,0,0,0-2.44-7,16.23,16.23,0,0,1-3.87-10.61,16.53,16.53,0,1,1,33.05,0A16.28,16.28,0,0,1,66.66,56a10.82,10.82,0,0,0-2.44,7v3.29A2.76,2.76,0,0,1,61.45,69" style="fill: #231f20"/>
+      <path id="_Path_" data-name="&lt;Path&gt;" d="M61.45,78H46.54a3,3,0,0,1,0-6H61.45a3,3,0,0,1,0,6" style="fill: #231f20"/>
+      <path d="M54,13.5A40.5,40.5,0,1,1,13.5,54,40.55,40.55,0,0,1,54,13.5M54,9A45,45,0,1,0,99,54,45,45,0,0,0,54,9Z" style="fill: #231f20"/>
+    </g>
+  </g>
+</svg>

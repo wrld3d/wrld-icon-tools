@@ -509,6 +509,10 @@
   {
    "id": "meter",
    "file": "menu/Meter_Menu.svg"
+  },
+  {
+   "id": "bulb",
+   "file": "menu/Bulb_Menu.svg"
   }
  ]
 }
