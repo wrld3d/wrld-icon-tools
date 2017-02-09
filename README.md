@@ -89,4 +89,4 @@ launchctl load -w /Library/LaunchAgents/org.freedesktop.dbus-session.plist
 
 ## License
 
-The eeGeo Icom Tools are  released under the Simplified BSD License. See the [LICENSE.md](https://github.com/eegeo/eegeo-icon-tools/blob/master/LICENSE) file for details.
+The eeGeo Icon Tools are  released under the Simplified BSD License. See the [LICENSE.md](https://github.com/eegeo/eegeo-icon-tools/blob/master/LICENSE) file for details.
