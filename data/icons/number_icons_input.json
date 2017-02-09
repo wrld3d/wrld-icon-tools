@@ -1,0 +1,86 @@
+{
+ "mode": "icons",
+ "icon-size": 36,
+ "icons": [
+  {
+   "id": "1",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_01.svg"
+  },
+  {
+   "id": "2",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_02.svg"
+  },
+  {
+   "id": "3",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_03.svg"
+  },
+  {
+   "id": "4",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_04.svg"
+  },
+  {
+   "id": "5",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_05.svg"
+  },
+  {
+   "id": "6",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_06.svg"
+  },
+  {
+   "id": "7",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_07.svg"
+  },
+  {
+   "id": "8",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_08.svg"
+  },
+  {
+   "id": "9",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_09.svg"
+  },
+  {
+   "id": "10",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_10.svg"
+  },
+  {
+   "id": "11",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_11.svg"
+  },
+  {
+   "id": "12",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_12.svg"
+  },
+  {
+   "id": "13",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_13.svg"
+  },
+  {
+   "id": "14",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_14.svg"
+  },
+  {
+   "id": "15",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_15.svg"
+  },
+  {
+   "id": "16",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_16.svg"
+  },
+  {
+   "id": "17",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_17.svg"
+  },
+  {
+   "id": "18",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_18.svg"
+  },
+  {
+   "id": "19",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_19.svg"
+  },
+  {
+   "id": "20",
+   "file": "menu/Numbers/NRM_DirectionsPanelNumber_20.svg"
+  }
+ ]
+}

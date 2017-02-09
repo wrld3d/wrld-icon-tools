@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 108 108" style="enable-background:new 0 0 108 108;" xml:space="preserve">
+<g id="Weather_x5F_Dusk">
+	<rect style="opacity:0.01;fill:#FFFFFF;" width="108" height="108"/>
+	<rect x="9" y="90" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 108 183)" style="fill:#E81A5F;" width="90" height="3"/>
+	<rect x="9" y="93" transform="matrix(-1 -2.245037e-10 2.245037e-10 -1 108 189)" style="fill:#BE19DF;" width="90" height="3"/>
+	<rect x="9" y="96" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 108 195)" style="fill:#3616D9;" width="90" height="3"/>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="7.6" y="47.963" width="73.4" height="39.037"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_2_);">
+			<g>
+				<g>
+					<path style="fill:#E81A5F;" d="M25.492,72.272l-11.569-3.31l8.648,8.362C23.345,75.518,24.328,73.824,25.492,72.272z"/>
+				</g>
+				<g>
+					<path style="fill:#E81A5F;" d="M59.791,67.355L63.1,55.786l-8.362,8.648C56.544,65.207,58.239,66.19,59.791,67.355z"/>
+				</g>
+				<g>
+					<path style="fill:#E81A5F;" d="M64.708,72.272c1.164,1.552,2.147,3.247,2.921,5.053l8.648-8.362L64.708,72.272z"/>
+				</g>
+				<g>
+					<path style="fill:#E81A5F;" d="M35.462,64.434L27.1,55.786l3.309,11.569C31.961,66.19,33.656,65.207,35.462,64.434z"/>
+				</g>
+				<g>
+					<path style="fill:#E81A5F;" d="M45.1,62.463c1.527,0,3.018,0.147,4.468,0.414L45.1,50.963l-4.468,11.915
+						C42.081,62.61,43.573,62.463,45.1,62.463z"/>
+				</g>
+				<g>
+					<path style="fill:#E81A5F;" d="M81.1,86.963l-11.914-4.468c0.267,1.449,0.414,2.941,0.414,4.468s-0.147,3.018-0.414,4.468
+						L81.1,86.963z"/>
+				</g>
+				<g>
+					<path style="fill:#E81A5F;" d="M20.6,86.963c0-1.525,0.141-3.017,0.408-4.465L9.1,86.963l11.914,4.468
+						C20.747,89.981,20.6,88.489,20.6,86.963z"/>
+				</g>
+			</g>
+			<circle style="fill:#E81A1A;" cx="45.1" cy="86.963" r="21"/>
+		</g>
+	</g>
+</g>
+<g id="Layer_1">
+</g>
+</svg>

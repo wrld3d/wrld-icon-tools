@@ -1,0 +1,514 @@
+{
+ "mode": "icons",
+ "icon-size": 36,
+ "icons": [
+  {
+   "id": "accommodation",
+   "file": "menu/Accommodation_Menu.svg"
+  },
+  {
+   "id": "airport",
+   "file": "menu/Airport_Menu.svg"
+  },
+  {
+   "id": "aroundme",
+   "file": "menu/AroundMe_Menu.svg"
+  },
+  {
+   "id": "art_museums",
+   "file": "menu/Art_Menu.svg"
+  },
+  {
+   "id": "atm",
+   "file": "menu/ATM_Menu.svg"
+  },
+  {
+   "id": "bank",
+   "file": "menu/Bank_Menu.svg"
+  },
+  {
+   "id": "bed_breakfast",
+   "file": "menu/Bed_Breakfast_Menu.svg"
+  },
+  {
+   "id": "beer",
+   "file": "menu/Beer_menu.svg"
+  },
+  {
+   "id": "burgers",
+   "file": "menu/Burgers_Menu.svg"
+  },
+  {
+   "id": "bus",
+   "file": "menu/Bus_Menu.svg"
+  },
+  {
+   "id": "business",
+   "file": "menu/Business_Menu.svg"
+  },
+  {
+   "id": "camping",
+   "file": "menu/Camping_Menu.svg"
+  },
+  {
+   "id": "entertainment",
+   "file": "menu/Entertainment_Menu.svg"
+  },
+  {
+   "id": "food_drink",
+   "file": "menu/FoodAndDrink_Menu.svg"
+  },
+  {
+   "id": "amenities",
+   "file": "menu/General_Menu.svg"
+  },
+  {
+   "id": "health",
+   "file": "menu/Health_Menu.svg"
+  },
+  {
+   "id": "my_pins",
+   "file": "menu/MyLocationsPIN_Menu.svg"
+  },
+  {
+   "id": "misc",
+   "file": "menu/PIN_Menu.svg"
+  },
+  {
+   "id": "shopping",
+   "file": "menu/Shopping_Menu.svg"
+  },
+  {
+   "id": "sports_leisure",
+   "file": "menu/Sport_Menu.svg"
+  },
+  {
+   "id": "tourism",
+   "file": "menu/TouristInfo_Menu.svg"
+  },
+  {
+   "id": "transport",
+   "file": "menu/Transport_Menu.svg"
+  },
+  {
+   "id": "spring",
+   "file": "menu/Weather Spring.svg"
+  },
+  {
+   "id": "autumn",
+   "file": "menu/Weather_Autumn.svg"
+  },
+  {
+   "id": "winter",
+   "file": "menu/Weather_Winter.svg"
+  },
+  {
+   "id": "summer",
+   "file": "menu/Weather_Summer.svg"
+  },
+  {
+   "id": "dawn",
+   "file": "menu/Weather_Dawn.svg"
+  },
+  {
+   "id": "day",
+   "file": "menu/Weather_Day.svg"
+  },
+  {
+   "id": "dusk",
+   "file": "menu/Weather_Dusk.svg"
+  },
+  {
+   "id": "night",
+   "file": "menu/Weather_Night.svg"
+  },
+  {
+   "id": "clear",
+   "file": "menu/Weather_Clear.svg"
+  },
+  {
+   "id": "sun",
+   "file": "menu/Weather_Sun.svg"
+  },
+  {
+   "id": "fog",
+   "file": "menu/Weather_Fog.svg"
+  },
+  {
+   "id": "rain",
+   "file": "menu/Weather_Rain.svg"
+  },
+  {
+   "id": "snow",
+   "file": "menu/Weather_Snow.svg"
+  },
+  {
+   "id": "emergency_exit",
+   "file": "menu/EmergencyExit.svg"
+  },
+  {
+   "id": "fire",
+   "file": "menu/Fire.svg"
+  },
+  {
+   "id": "first_aid",
+   "file": "menu/First_Aid_Menu.svg"
+  },
+  {
+   "id": "disabled_access",
+   "file": "menu/Indoor_Accessible.svg"
+  },
+  {
+   "id": "toilets",
+   "file": "menu/Indoor_Bathroom_Menu.svg"
+  },
+  {
+   "id": "defibrillator",
+   "file": "menu/Indoor_Defibrillator.svg"
+  },
+  {
+   "id": "elevator",
+   "file": "menu/Indoor_Elevator.svg"
+  },
+  {
+   "id": "stairs",
+   "file": "menu/Indoor_Stairs.svg"
+  },
+  {
+   "id": "escalator",
+   "file": "menu/IndoorEscalator.svg"
+  },
+  {
+   "id": "printer",
+   "file": "menu/Indoors_Printer.svg"
+  },
+  {
+   "id": "reception",
+   "file": "menu/Indoors_Reception.svg"
+  },
+  {
+   "id": "stationery",
+   "file": "menu/Indoors_Stationery.svg"
+  },
+  {
+   "id": "person",
+   "file": "menu/Person.svg"
+  },
+  {
+   "id": "department",
+   "file": "menu/S_Menu_Department.svg"
+  },
+  {
+   "id": "meeting_room_available",
+   "file": "menu/S_Menu_MeetingRoomAvailable.svg"
+  },
+  {
+   "id": "meeting_room_available_soon",
+   "file": "menu/S_Menu_MeetingRoomAvailableSoon.svg"
+  },
+  {
+   "id": "meeting_room",
+   "file": "menu/S_Menu_MeetingRoomGeneric.svg"
+  },
+  {
+   "id": "meeting_room_unavailable",
+   "file": "menu/S_Menu_MeetingRoomUnavailable.svg"
+  },
+  {
+   "id": "working_group",
+   "file": "menu/S_Menu_WorkingGroup.svg"
+  },
+  {
+   "id": "casino",
+   "file": "menu/Gambling_Menu.svg"
+  },
+  {
+   "id": "historic_monument",
+   "file": "menu/Castle_Historic_Monument_Menu.svg"
+  },
+  {
+   "id": "charge_point",
+   "file": "menu/Charge_Point_Menu.svg"
+  },
+  {
+   "id": "childcare",
+   "file": "menu/Childcare_Menu.svg"
+  },
+  {
+   "id": "christianity",
+   "file": "menu/Christianity_Menu.svg"
+  },
+  {
+   "id": "cinema",
+   "file": "menu/Cinema_Menu.svg"
+  },
+  {
+   "id": "cocktail",
+   "file": "menu/Cocktail_Menu.svg"
+  },
+  {
+   "id": "coffee",
+   "file": "menu/Coffee_Menu.svg"
+  },
+  {
+   "id": "cycling",
+   "file": "menu/Cycling_Menu.svg"
+  },
+  {
+   "id": "dentist",
+   "file": "menu/Dentist_Menu.svg"
+  },
+  {
+   "id": "donuts",
+   "file": "menu/Donuts_Menu.svg"
+  },
+  {
+   "id": "education",
+   "file": "menu/Education_Menu.svg"
+  },
+  {
+   "id": "facebook",
+   "file": "pin/facebook_pin.svg"
+  },
+  {
+   "id": "farm",
+   "file": "menu/Farm_Menu.svg"
+  },
+  {
+   "id": "ferry",
+   "file": "menu/Ferry_Menu.svg"
+  },
+  {
+   "id": "fire_extinguisher",
+   "file": "menu/Fire_Extinguisher_Menu.svg"
+  },
+  {
+   "id": "fishing",
+   "file": "menu/Fishing_Menu.svg"
+  },
+  {
+   "id": "florist",
+   "file": "menu/Florist_Menu.svg"
+  },
+  {
+   "id": "football",
+   "file": "menu/Football_Menu.svg"
+  },
+  {
+   "id": "petrol_station",
+   "file": "menu/Fuel_Petrol_Gas_Station_Menu.svg"
+  },
+  {
+   "id": "golf",
+   "file": "menu/Golf_Menu.svg"
+  },
+  {
+   "id": "google_plus",
+   "file": "pin/google_plus_pin.svg"
+  },
+  {
+   "id": "groceries",
+   "file": "menu/Groceries_Menu.svg"
+  },
+  {
+   "id": "hospital",
+   "file": "menu/Hospital_Menu.svg"
+  },
+  {
+   "id": "hostel",
+   "file": "menu/Hostel_Menu.svg"
+  },
+  {
+   "id": "hotel",
+   "file": "menu/Hotel_Menu.svg"
+  },
+  {
+   "id": "islam",
+   "file": "menu/Islam_Menu.svg"
+  },
+  {
+   "id": "judaism",
+   "file": "menu/judaism_Menu.svg"
+  },
+  {
+   "id": "library",
+   "file": "menu/Library_Menu.svg"
+  },
+  {
+   "id": "lifeguard",
+   "file": "menu/Lifeguard_Menu.svg"
+  },
+  {
+   "id": "limo",
+   "file": "menu/Limo_Menu.svg"
+  },
+  {
+   "id": "link",
+   "file": "pin/link_pin.svg"
+  },
+  {
+   "id": "lodge",
+   "file": "menu/Lodge_Menu.svg"
+  },
+  {
+   "id": "music",
+   "file": "menu/Music_Menu.svg"
+  },
+  {
+   "id": "office",
+   "file": "menu/Office_Menu.svg"
+  },
+  {
+   "id": "parking",
+   "file": "menu/Parking_Menu.svg"
+  },
+  {
+   "id": "park",
+   "file": "menu/Park_Menu.svg"
+  },
+  {
+   "id": "payphone",
+   "file": "menu/Payphone_Menu.svg"
+  },
+  {
+   "id": "pharmacy",
+   "file": "menu/Pharmacy_Menu.svg"
+  },
+  {
+   "id": "picasa",
+   "file": "pin/picasa_pin.svg"
+  },
+  {
+   "id": "pizza",
+   "file": "menu/Pizza_Menu.svg"
+  },
+  {
+   "id": "playing_field",
+   "file": "menu/Playing_Field_Menu.svg"
+  },
+  {
+   "id": "police",
+   "file": "menu/Police_Menu.svg"
+  },
+  {
+   "id": "post_office",
+   "file": "menu/post_office_post_box_Menu.svg"
+  },
+  {
+   "id": "race_track",
+   "file": "menu/Race_Track_Menu.svg"
+  },
+  {
+   "id": "place_of_worship",
+   "file": "menu/PlaceOfWorship_Menu.svg"
+  },
+  {
+   "id": "sailing",
+   "file": "menu/Sailing_Menu.svg"
+  },
+  {
+   "id": "shooting",
+   "file": "menu/Shooting_Menu.svg"
+  },
+  {
+   "id": "skiing",
+   "file": "menu/Skiing_Menu.svg"
+  },
+  {
+   "id": "spa",
+   "file": "menu/Spa_Menu.svg"
+  },
+  {
+   "id": "sports_field",
+   "file": "menu/Sports_Field_Menu.svg"
+  },
+  {
+   "id": "subway",
+   "file": "menu/Subway_Underground_Menu.svg"
+  },
+  {
+   "id": "taxi",
+   "file": "menu/Taxi_Menu.svg"
+  },
+  {
+   "id": "town_hall",
+   "file": "menu/Town_Hall_Menu.svg"
+  },
+  {
+   "id": "train",
+   "file": "menu/Train_Menu.svg"
+  },
+  {
+   "id": "tram",
+   "file": "menu/Tram_Menu.svg"
+  },
+  {
+   "id": "twitter",
+   "file": "pin/twitter_pin.svg"
+  },
+  {
+   "id": "vet",
+   "file": "menu/Vet_Menu.svg"
+  },
+  {
+   "id": "vimeo",
+   "file": "pin/vimeo_pin.svg"
+  },
+  {
+   "id": "wikipedia",
+   "file": "pin/wikipedia_pin.svg"
+  },
+  {
+   "id": "wine",
+   "file": "menu/Wine_Menu.svg"
+  },
+  {
+   "id": "youtube",
+   "file": "pin/youtube_pin.svg"
+  },
+  {
+   "id": "zoo",
+   "file": "menu/Zoo_Menu.svg"
+  },
+  {
+   "id": "forest",
+   "file": "menu/Forest_Menu.svg"
+  },
+  {
+   "id": "lake",
+   "file": "menu/Lake_Menu.svg"
+  },
+  {
+   "id": "mountain",
+   "file": "menu/Mountain_Menu.svg"
+  },
+  {
+   "id": "river",
+   "file": "menu/River_Menu.svg"
+  },
+  {
+   "id": "female",
+   "file": "menu/ToiletLadies_Menu.svg"
+  },
+  {
+   "id": "male",
+   "file": "menu/ToiletMen_Menu.svg"
+  },
+  {
+   "id": "lamppost",
+   "file": "menu/Lamppost_Menu.svg"
+  },
+  {
+   "id": "trash_empty",
+   "file": "menu/Trash_Menu.svg"
+  },
+  {
+   "id": "trash_full",
+   "file": "menu/Trash_Full_Menu.svg"
+  },
+  {
+   "id": "meter",
+   "file": "menu/Meter_Menu.svg"
+  }
+ ]
+}

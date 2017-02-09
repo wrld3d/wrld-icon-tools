@@ -1,0 +1,62 @@
+{
+ "cell-size": 28,
+ "sheet-size": 118,
+ "mode": "sheet",
+ "icon-size": 24,
+ "icons": [
+  {
+   "file": "pin/EnterBuilding_Icon_108.svg",
+   "id": "indoor_map",
+   "icon-size": 36,
+   "cell-size": 40
+  },
+  {
+   "id": "disabled_access",
+   "file": "pin/Indoor_Accessible.svg"
+  },
+  {
+   "id": "toilets",
+   "file": "pin/Indoor_Bathroom.svg"
+  },
+  {
+   "id": "elevator",
+   "file": "pin/Indoor_Elevator.svg"
+  },
+  {
+   "id": "stairs",
+   "file": "pin/Indoor_Stairs.svg"
+  },
+  {
+   "id": "escalator",
+   "file": "pin/IndoorEscalator.svg"
+  },
+  {
+   "id": "misc",
+   "file": "pin/PIN_Pin.svg"
+  },
+  {
+   "id": "park_outlined",
+   "file": "pin/Park_Pin.svg",
+   "background": "none",
+   "outline-color": "#51614C",
+   "color": "#DFFAD2",
+   "shadow-color": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "id": "airport_outlined",
+   "file": "pin/Airport_Pin.svg",
+   "background": "none",
+   "outline-color": "#4C625D",
+   "color": "#D2FAF6",
+   "shadow-color": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "id": "golf_outlined",
+   "file": "pin/Golf_Pin.svg",
+   "background": "none",
+   "outline-color": "#51614C",
+   "color": "#DFFAD2",
+   "shadow-color": "rgba(0, 0, 0, 0)"
+  }
+ ]
+}

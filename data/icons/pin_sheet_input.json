@@ -1,0 +1,498 @@
+{
+ "cell-size": 28,
+ "sheet-size": 320,
+ "mode": "sheet",
+ "icon-size": 24,
+ "icons": [
+  {
+   "id": "blank"
+  },
+  {
+   "id": "label_point",
+   "icon-size": 4,
+   "cell-size": 8
+  },
+  {
+   "id": "accommodation",
+   "file": "pin/Accommodation_Pin.svg"
+  },
+  {
+   "id": "airport",
+   "file": "pin/Airport_Pin.svg"
+  },
+  {
+   "id": "art_museums",
+   "file": "pin/Art_Pin.svg"
+  },
+  {
+   "id": "atm",
+   "file": "pin/Atm_Pin.svg"
+  },
+  {
+   "id": "bank",
+   "file": "pin/Bank_Pin.svg"
+  },
+  {
+   "id": "bed_breakfast",
+   "file": "pin/Bed_Breakfast_Pin.svg"
+  },
+  {
+   "id": "beer",
+   "file": "pin/Beer_Pin.svg"
+  },
+  {
+   "id": "burgers",
+   "file": "pin/Burgers_Pin.svg"
+  },
+  {
+   "id": "bus",
+   "file": "pin/Bus_Pin.svg"
+  },
+  {
+   "id": "business",
+   "file": "pin/Business_Pin.svg"
+  },
+  {
+   "id": "camping",
+   "file": "pin/Camping_Pin.svg"
+  },
+  {
+   "id": "entertainment",
+   "file": "pin/Entertainment_Pin.svg"
+  },
+  {
+   "id": "amenities",
+   "file": "pin/General_Pin.svg"
+  },
+  {
+   "id": "health",
+   "file": "pin/Health_Pin.svg"
+  },
+  {
+   "id": "my_pins",
+   "file": "pin/MyLocationsPIN_Pin.svg"
+  },
+  {
+   "id": "person",
+   "file": "pin/Person_Pin.svg"
+  },
+  {
+   "id": "misc",
+   "file": "pin/PIN_Pin.svg"
+  },
+  {
+   "id": "shopping",
+   "file": "pin/Shopping_Pin.svg"
+  },
+  {
+   "id": "sports_leisure",
+   "file": "pin/Sports_Pin.svg"
+  },
+  {
+   "id": "tourism",
+   "file": "pin/TouristInfo_Pin.svg"
+  },
+  {
+   "id": "transport",
+   "file": "pin/Transport_Pin.svg"
+  },
+  {
+   "file": "pin/EnterBuilding_Icon_108.svg",
+   "id": "indoor_map",
+   "icon-size": 36,
+   "cell-size": 40
+  },
+  {
+   "id": "disabled_access",
+   "file": "pin/Indoor_Accessible.svg"
+  },
+  {
+   "id": "toilets",
+   "file": "pin/Indoor_Bathroom.svg"
+  },
+  {
+   "id": "defibrillator",
+   "file": "pin/Indoor_Defibrillator.svg"
+  },
+  {
+   "id": "elevator",
+   "file": "pin/Indoor_Elevator.svg"
+  },
+  {
+   "id": "stairs",
+   "file": "pin/Indoor_Stairs.svg"
+  },
+  {
+   "id": "escalator",
+   "file": "pin/IndoorEscalator.svg"
+  },
+  {
+   "id": "printer",
+   "file": "pin/Indoors_Printer.svg"
+  },
+  {
+   "id": "reception",
+   "file": "pin/Indoors_Reception.svg"
+  },
+  {
+   "id": "stationery",
+   "file": "pin/Indoors_Stationery.svg"
+  },
+  {
+   "id": "fire",
+   "file": "pin/Fire.svg"
+  },
+  {
+   "id": "emergency_exit",
+   "file": "pin/EmergencyExit.svg"
+  },
+  {
+   "id": "department",
+   "file": "pin/S_Indoor_Department.svg"
+  },
+  {
+   "id": "meeting_room_available",
+   "file": "pin/S_Indoor_MeetingRoomAvailable.svg"
+  },
+  {
+   "id": "meeting_room_available_soon",
+   "file": "pin/S_Indoor_MeetingRoomAvailableSoon.svg"
+  },
+  {
+   "id": "meeting_room",
+   "file": "pin/S_Indoor_MeetingRoomGeneric.svg"
+  },
+  {
+   "id": "meeting_room_unavailable",
+   "file": "pin/S_Indoor_MeetingRoomUnavailable.svg"
+  },
+  {
+   "id": "working_group",
+   "file": "pin/S_Indoor_WorkingGroup.svg"
+  },
+  {
+   "id": "casino",
+   "file": "pin/Casino_Gambling_Pin.svg"
+  },
+  {
+   "id": "historic_monument",
+   "file": "pin/Castle_Historic_Monument_Pin.svg"
+  },
+  {
+   "id": "charge_point",
+   "file": "pin/Charge_Point_Pin.svg"
+  },
+  {
+   "id": "childcare",
+   "file": "pin/Childcare_Pin.svg"
+  },
+  {
+   "id": "christianity",
+   "file": "pin/Christianity_Pin.svg"
+  },
+  {
+   "id": "cinema",
+   "file": "pin/Cinema_Pin.svg"
+  },
+  {
+   "id": "cocktail",
+   "file": "pin/Cocktail_Pin.svg"
+  },
+  {
+   "id": "coffee",
+   "file": "pin/Coffee_Pin.svg"
+  },
+  {
+   "id": "cycling",
+   "file": "pin/Cycling_Pin.svg"
+  },
+  {
+   "id": "dentist",
+   "file": "pin/Dentist_Pin.svg"
+  },
+  {
+   "id": "donuts",
+   "file": "pin/Donuts_Pin.svg"
+  },
+  {
+   "id": "education",
+   "file": "pin/Education_Pin.svg"
+  },
+  {
+   "id": "facebook",
+   "file": "pin/facebook_pin.svg"
+  },
+  {
+   "id": "farm",
+   "file": "pin/Farm_Pin.svg"
+  },
+  {
+   "id": "ferry",
+   "file": "pin/Ferry_Pin.svg"
+  },
+  {
+   "id": "fire_extinguisher",
+   "file": "pin/Fire_Extinguisher_Pin.svg"
+  },
+  {
+   "id": "first_aid",
+   "file": "pin/First_Aid_Pin.svg"
+  },
+  {
+   "id": "fishing",
+   "file": "pin/Fishing_Pin.svg"
+  },
+  {
+   "id": "florist",
+   "file": "pin/Florist_Pin.svg"
+  },
+  {
+   "id": "food_drink",
+   "file": "pin/FoodAndDrink_Pin.svg"
+  },
+  {
+   "id": "football",
+   "file": "pin/Football_Pin.svg"
+  },
+  {
+   "id": "petrol_station",
+   "file": "pin/Fuel_Petrol_Station_Gas_Station_Pin.svg"
+  },
+  {
+   "id": "golf",
+   "file": "pin/Golf_Pin.svg"
+  },
+  {
+   "id": "google_plus",
+   "file": "pin/google_plus_pin.svg"
+  },
+  {
+   "id": "groceries",
+   "file": "pin/Groceries_Pin.svg"
+  },
+  {
+   "id": "hospital",
+   "file": "pin/Hospital_Pin.svg"
+  },
+  {
+   "id": "hostel",
+   "file": "pin/Hostel_Pin.svg"
+  },
+  {
+   "id": "hotel",
+   "file": "pin/Hotel_Pin.svg"
+  },
+  {
+   "id": "islam",
+   "file": "pin/Islam_Pin.svg"
+  },
+  {
+   "id": "judaism",
+   "file": "pin/Judaism_Pin.svg"
+  },
+  {
+   "id": "library",
+   "file": "pin/Library_Pin.svg"
+  },
+  {
+   "id": "lifeguard",
+   "file": "pin/Lifeguard_Pin.svg"
+  },
+  {
+   "id": "limo",
+   "file": "pin/Limo_Pin.svg"
+  },
+  {
+   "id": "link",
+   "file": "pin/link_pin.svg"
+  },
+  {
+   "id": "lodge",
+   "file": "pin/Lodge_Pin.svg"
+  },
+  {
+   "id": "music",
+   "file": "pin/Music_Pin.svg"
+  },
+  {
+   "id": "office",
+   "file": "pin/Office_Pin.svg"
+  },
+  {
+   "id": "parking",
+   "file": "pin/Parking_Pin.svg"
+  },
+  {
+   "id": "park",
+   "file": "pin/Park_Pin.svg"
+  },
+  {
+   "id": "payphone",
+   "file": "pin/payphone_Pin.svg"
+  },
+  {
+   "id": "pharmacy",
+   "file": "pin/Pharmacy_Pin.svg"
+  },
+  {
+   "id": "picasa",
+   "file": "pin/picasa_pin.svg"
+  },
+  {
+   "id": "pizza",
+   "file": "pin/Pizza_Pin.svg"
+  },
+  {
+   "id": "playing_field",
+   "file": "pin/Playing_Field_Pin.svg"
+  },
+  {
+   "id": "police",
+   "file": "pin/Police_Pin.svg"
+  },
+  {
+   "id": "post_office",
+   "file": "pin/Post_Office_Post_Box_Pin.svg"
+  },
+  {
+   "id": "race_track",
+   "file": "pin/Race_Track_Pin.svg"
+  },
+  {
+   "id": "place_of_worship",
+   "file": "pin/Religion_Place_of_Worship_Pin.svg"
+  },
+  {
+   "id": "sailing",
+   "file": "pin/Sailing_Pin.svg"
+  },
+  {
+   "id": "shooting",
+   "file": "pin/Shooting_Pin.svg"
+  },
+  {
+   "id": "skiing",
+   "file": "pin/Skiing_Pin.svg"
+  },
+  {
+   "id": "spa",
+   "file": "pin/Spa_Pin.svg"
+  },
+  {
+   "id": "sports_field",
+   "file": "pin/Sports_Field_Pin.svg"
+  },
+  {
+   "id": "subway",
+   "file": "pin/Subway_Underground_Pin.svg"
+  },
+  {
+   "id": "taxi",
+   "file": "pin/Taxi_Pin.svg"
+  },
+  {
+   "id": "town_hall",
+   "file": "pin/Town_Hall_Pin.svg"
+  },
+  {
+   "id": "train",
+   "file": "pin/Train_Pin.svg"
+  },
+  {
+   "id": "tram",
+   "file": "pin/Tram_Pin.svg"
+  },
+  {
+   "id": "twitter",
+   "file": "pin/twitter_pin.svg"
+  },
+  {
+   "id": "vet",
+   "file": "pin/Vet_Pin.svg"
+  },
+  {
+   "id": "vimeo",
+   "file": "pin/vimeo_pin.svg"
+  },
+  {
+   "id": "wikipedia",
+   "file": "pin/wikipedia_pin.svg"
+  },
+  {
+   "id": "wine",
+   "file": "pin/Wine_Pin.svg"
+  },
+  {
+   "id": "youtube",
+   "file": "pin/youtube_pin.svg"
+  },
+  {
+   "id": "zoo",
+   "file": "pin/Zoo_Pin.svg"
+  },
+  {
+   "id": "forest",
+   "file": "pin/Forest_pin.svg"
+  },
+  {
+   "id": "lake",
+   "file": "pin/Lake_pin.svg"
+  },
+  {
+   "id": "mountain",
+   "file": "pin/Mountain_pin.svg"
+  },
+  {
+   "id": "river",
+   "file": "pin/River_pin.svg"
+  },
+  {
+   "id": "female",
+   "file": "pin/ToiletLadies_Pin.svg"
+  },
+  {
+   "id": "male",
+   "file": "pin/ToiletMen_Pin.svg"
+  },
+  {
+   "id": "lamppost",
+   "file": "pin/Lamppost_Pin.svg"
+  },
+  {
+   "id": "meter",
+   "file": "pin/Meter_Pin.svg"
+  },
+  {
+   "id": "trash_empty",
+   "file": "pin/Trash_Pin.svg"
+  },
+  {
+   "id": "trash_full",
+   "file": "pin/Trash_Full_Pin.svg"
+  },
+  {
+   "id": "park_outlined",
+   "file": "pin/Park_Pin.svg",
+   "background": "none",
+   "outline-color": "#51614C",
+   "color": "#DFFAD2",
+   "shadow-color": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "id": "airport_outlined",
+   "file": "pin/Airport_Pin.svg",
+   "background": "none",
+   "outline-color": "#4C625D",
+   "color": "#D2FAF6",
+   "shadow-color": "rgba(0, 0, 0, 0)"
+  },
+  {
+   "id": "golf_outlined",
+   "file": "pin/Golf_Pin.svg",
+   "background": "none",
+   "outline-color": "#51614C",
+   "color": "#DFFAD2",
+   "shadow-color": "rgba(0, 0, 0, 0)"
+  }
+ ]
+}

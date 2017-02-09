@@ -1,0 +1,88 @@
+{
+ "cell-size": 36,
+ "sheet-size": 190,
+ "mode": "sheet",
+ "icon-size": 32,
+ "icons": [
+  {
+   "id": "1",
+   "file": "pin/Numbers/NRM_MapNumber_01.svg"
+  },
+  {
+   "id": "2",
+   "file": "pin/Numbers/NRM_MapNumber_02.svg"
+  },
+  {
+   "id": "3",
+   "file": "pin/Numbers/NRM_MapNumber_03.svg"
+  },
+  {
+   "id": "4",
+   "file": "pin/Numbers/NRM_MapNumber_04.svg"
+  },
+  {
+   "id": "5",
+   "file": "pin/Numbers/NRM_MapNumber_05.svg"
+  },
+  {
+   "id": "6",
+   "file": "pin/Numbers/NRM_MapNumber_06.svg"
+  },
+  {
+   "id": "7",
+   "file": "pin/Numbers/NRM_MapNumber_07.svg"
+  },
+  {
+   "id": "8",
+   "file": "pin/Numbers/NRM_MapNumber_08.svg"
+  },
+  {
+   "id": "9",
+   "file": "pin/Numbers/NRM_MapNumber_09.svg"
+  },
+  {
+   "id": "10",
+   "file": "pin/Numbers/NRM_MapNumber_10.svg"
+  },
+  {
+   "id": "11",
+   "file": "pin/Numbers/NRM_MapNumber_11.svg"
+  },
+  {
+   "id": "12",
+   "file": "pin/Numbers/NRM_MapNumber_12.svg"
+  },
+  {
+   "id": "13",
+   "file": "pin/Numbers/NRM_MapNumber_13.svg"
+  },
+  {
+   "id": "14",
+   "file": "pin/Numbers/NRM_MapNumber_14.svg"
+  },
+  {
+   "id": "15",
+   "file": "pin/Numbers/NRM_MapNumber_15.svg"
+  },
+  {
+   "id": "16",
+   "file": "pin/Numbers/NRM_MapNumber_16.svg"
+  },
+  {
+   "id": "17",
+   "file": "pin/Numbers/NRM_MapNumber_17.svg"
+  },
+  {
+   "id": "18",
+   "file": "pin/Numbers/NRM_MapNumber_18.svg"
+  },
+  {
+   "id": "19",
+   "file": "pin/Numbers/NRM_MapNumber_19.svg"
+  },
+  {
+   "id": "20",
+   "file": "pin/Numbers/NRM_MapNumber_20.svg"
+  }
+ ]
+}
