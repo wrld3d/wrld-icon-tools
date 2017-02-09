@@ -1,5 +1,6 @@
-# Output directory.
+# Output directories.
 output/
+test/
 
 # Virtual environments.
 *Venv/
