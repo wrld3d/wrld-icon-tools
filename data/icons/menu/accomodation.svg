@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>accomodation</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="108" height="108" style="fill: #fff;opacity: 0"/>
+        <g>
+          <path d="M84,54.54C84,48,77.54,42,70.5,42H42V57H84Z" style="fill: #d82121"/>
+          <circle cx="31.5" cy="49.5" r="7.5" style="fill: #d82121"/>
+          <polygon points="87 51 87 60 21 60 21 33 15 33 15 75 21 75 21 69 87 69 87 75 93 75 93 51 87 51" style="fill: #d82121"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

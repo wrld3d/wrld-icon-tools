@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>town_hall</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <g>
+          <polygon points="40.5 54 40.5 49.5 27 63 81 63 67.5 49.5 67.5 54 40.5 54" style="fill: #0081a1"/>
+          <polygon points="27 66 27 93 33 93 33 75 36 75 36 93 42 93 42 75 45 75 45 93 63 93 63 75 66 75 66 93 72 93 72 75 75 75 75 93 81 93 81 66 27 66" style="fill: #0081a1"/>
+          <path d="M63,33l-7.82-7.82V24H67.47L63,19.5,67.5,15H55.18V13.16a2.25,2.25,0,1,0-2.35,0v12L45,33V51H63ZM54,45a4.5,4.5,0,1,1,4.5-4.5A4.5,4.5,0,0,1,54,45Z" style="fill: #0081a1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

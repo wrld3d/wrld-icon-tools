@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>security_camera</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <g>
+          <path d="M25.5,21A4.5,4.5,0,0,0,21,25.5v18A4.5,4.5,0,0,0,25.5,48H45L27,66V58.5A1.5,1.5,0,0,0,25.5,57H18V84h7.5A1.5,1.5,0,0,0,27,82.5V75L54,48H75V34.5L88.5,21Zm6,13.5A4.5,4.5,0,1,1,36,30,4.5,4.5,0,0,1,31.5,34.5Z" style="fill: #378006"/>
+          <polygon points="81 45 87 45 87 30 81 36 81 45" style="fill: #378006"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

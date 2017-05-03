@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>business</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <path d="M54,0a54,54,0,1,0,54,54A54,54,0,0,0,54,0Z" style="fill: #fff;opacity: 0"/>
+        <g>
+          <path d="M60,57v3H48V57H27l-9-9V75a6.47,6.47,0,0,0,6,6H84a6.47,6.47,0,0,0,6-6V48l-9,9Z" style="fill: #907300"/>
+          <path d="M84,30H63V21H45v9H24a6.47,6.47,0,0,0-6,6v4.32L28.68,51H48V48H60v3H79.32L90,40.37V36A6.47,6.47,0,0,0,84,30ZM48,30V24H60v6Z" style="fill: #907300"/>
+          <rect x="51" y="51" width="6" height="6" style="fill: #907300"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

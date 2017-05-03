@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>elevator</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="108" height="108" style="fill: #fff;opacity: 0"/>
+        <polygon points="63 15 45 15 54 4.5 63 15" style="fill: #d81308"/>
+        <polygon points="63 93 45 93 54 103.5 63 93" style="fill: #d81308"/>
+        <path d="M76.5,21h-45A4.61,4.61,0,0,0,27,25.71V82.29A4.61,4.61,0,0,0,31.5,87h45A4.61,4.61,0,0,0,81,82.29V25.71A4.61,4.61,0,0,0,76.5,21ZM47.25,25.5h13.5a2.25,2.25,0,0,1,0,4.5H47.25a2.25,2.25,0,0,1,0-4.5ZM51,81H33V36H51Zm24,0H57V36H75Z" style="fill: #d81308"/>
+      </g>
+    </g>
+  </g>
+</svg>

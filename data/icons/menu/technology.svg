@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>technology</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <path d="M94,40V31H84.17A13.45,13.45,0,0,0,76,22.83V13H67v9H58V13H49v9H40V13H31v9.83A13.45,13.45,0,0,0,22.83,31H13v9h9v9H13v9h9v9H13v9h9.83A13.45,13.45,0,0,0,31,84.17V94h9V85h9v9h9V85h9v9h9V84.17A13.45,13.45,0,0,0,84.17,76H94V67H85V58h9V49H85V40ZM81,71.83A9.17,9.17,0,0,1,71.83,81H35.17A9.17,9.17,0,0,1,26,71.83V35.17A9.17,9.17,0,0,1,35.17,26H71.83A9.17,9.17,0,0,1,81,35.17Z" style="fill: #2e2ee6"/>
+        <rect x="38" y="38" width="31" height="31" style="fill: #2e2ee6"/>
+      </g>
+    </g>
+  </g>
+</svg>

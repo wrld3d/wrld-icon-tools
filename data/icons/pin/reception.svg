@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>reception</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <g>
+          <rect width="72" height="72" style="fill: #fff;opacity: 0"/>
+          <rect x="12" y="48" width="48" height="6" style="fill: #777a00"/>
+        </g>
+        <path d="M39,27.2V21h6V15H27v6h6v6.2C22.83,28.46,15,35.93,15,45H57C57,35.93,49.17,28.46,39,27.2Z" style="fill: #777a00"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>toilet_men</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <polygon points="30 66 27 66 30 39 30 30 23 40 20 40 30 21 42 21 52 40 49 40 42 30 42 39 45 66 42 66 36 39.75 30 66" style="fill: #0081a1"/>
+        <polygon points="30 66 27 66 30 39 30 30 23 40 20 40 30 21 42 21 52 40 49 40 42 30 42 39 45 66 42 66 36 39.75 30 66" style="fill: #0081a1"/>
+        <path d="M30,12a6,6,0,1,1,6,6,6,6,0,0,1-6-6" style="fill: #0081a1"/>
+      </g>
+    </g>
+  </g>
+</svg>

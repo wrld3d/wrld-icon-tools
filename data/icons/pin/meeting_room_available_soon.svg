@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>meeting_room_available_soon</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="72" height="72" style="fill: #fff;opacity: 0"/>
+        <path d="M36,6A30,30,0,1,0,66,36,30,30,0,0,0,36,6Zm0,36a6,6,0,0,1-6-6,5.37,5.37,0,0,1,.16-1.22L15.37,20l3.54-3.54L33,30.55V15h6V30.83A6,6,0,0,1,36,42Z" style="fill: #d96f00"/>
+      </g>
+    </g>
+  </g>
+</svg>

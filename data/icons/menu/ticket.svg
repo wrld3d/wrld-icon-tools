@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>ticket</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <path d="M96,45V30H12V45a9,9,0,0,1,0,18V78H96V63a9,9,0,0,1,0-18ZM66.7,72,54,62.76,41.3,72l4.62-15-12.7-9.24H49.38l4.62-15,4.62,15H74.78L62.08,57Z" style="fill: #668000"/>
+      </g>
+    </g>
+  </g>
+</svg>

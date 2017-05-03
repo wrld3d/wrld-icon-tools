@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>playing_field</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <rect x="9" y="27" width="9" height="18" style="fill: #068037"/>
+        <rect x="54" y="27" width="9" height="18" style="fill: #068037"/>
+        <path d="M26.25,36a9.73,9.73,0,0,1,8.25-9.6V18H9v6H21V48H9v6H34.5V45.6A9.73,9.73,0,0,1,26.25,36Z" style="fill: #068037"/>
+        <path d="M37.5,18l0,8.4a9.71,9.71,0,0,1,0,19.19l0,8.41H63V48H51V24H63V18Z" style="fill: #068037"/>
+        <path d="M29.25,36a6.74,6.74,0,0,0,5.25,6.57V29.43A6.74,6.74,0,0,0,29.25,36Z" style="fill: #068037"/>
+        <path d="M42.75,36a6.74,6.74,0,0,0-5.22-6.56l0,13.11A6.74,6.74,0,0,0,42.75,36Z" style="fill: #068037"/>
+      </g>
+    </g>
+  </g>
+</svg>

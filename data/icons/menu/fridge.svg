@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>fridge</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <path d="M27,88.5A4.5,4.5,0,0,0,31.5,93h45A4.5,4.5,0,0,0,81,88.5V84H27Z" style="fill: #006e00"/>
+        <path d="M45,12H31.5A4.5,4.5,0,0,0,27,16.5V81H45ZM42,60H36V42h6Z" style="fill: #006e00"/>
+        <path d="M76.5,12H48V81H81V16.5A4.5,4.5,0,0,0,76.5,12ZM57,60H51V42h6Z" style="fill: #006e00"/>
+      </g>
+    </g>
+  </g>
+</svg>

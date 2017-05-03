@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>home_apartment</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <path d="M30,39V93H45V81H60V93H75V39L52.5,27ZM48,75H39V66h9Zm0-13.5H39v-9h9ZM48,48H39V39h9Zm9-9h9v9H57Zm0,13.5h9v9H57ZM57,66h9v9H57Z" style="fill: #0081a1"/>
+        <polygon points="52.5 9 21 27 21 36 52.5 18 84 36 84 27 52.5 9" style="fill: #0081a1"/>
+      </g>
+    </g>
+  </g>
+</svg>

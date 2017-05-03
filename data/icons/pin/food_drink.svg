@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>food_drink</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <path d="M36,22.5V9H33V24.43H28.5V9h-3V24.43H21V9H18V22.5c0,7.71,5,11.57,7.52,11.57L24,62a1,1,0,0,0,1,1h4a1,1,0,0,0,1-1l-1.52-28C31,34.07,36,30.21,36,22.5Z" style="fill: #00856a"/>
+        <path d="M48,62V11.89c0-1,0-2.89-1-2.89-3,0-6,11.57-6,28.93h2L42,62a1,1,0,0,0,1,1h4A1,1,0,0,0,48,62Z" style="fill: #00856a"/>
+      </g>
+    </g>
+  </g>
+</svg>

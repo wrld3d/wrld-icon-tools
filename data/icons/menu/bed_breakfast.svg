@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>bed_breakfast</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <polygon points="75 39 81 33 27 33 33 39 75 39" style="fill: #d82121"/>
+        <path d="M54,30c12.43,0,22.5-8.06,22.5-18h-45C31.5,21.94,41.57,30,54,30Z" style="fill: #d82121"/>
+        <path d="M84,63.54C84,57,77.54,51,70.5,51H42V66H84Z" style="fill: #d82121"/>
+        <circle cx="31.5" cy="58.5" r="7.5" style="fill: #d82121"/>
+        <polygon points="87 60 87 69 21 69 21 42 15 42 15 84 21 84 21 78 87 78 87 84 93 84 93 60 87 60" style="fill: #d82121"/>
+      </g>
+    </g>
+  </g>
+</svg>

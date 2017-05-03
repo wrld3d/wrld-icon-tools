@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>offices</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <path d="M90,75V27H57V75H54V15H21V75H15v6H96V75ZM39,21h9v9H39Zm0,12h9v9H39Zm0,12h9v9H39ZM27,21h9v9H27Zm0,12h9v9H27Zm0,12h9v9H27Zm3,30V60H45V75ZM75,33h9v9H75Zm0,12h9v9H75ZM63,33h9v9H63Zm0,12h9v9H63Zm3,30V60H81V75Z" style="fill: #907300"/>
+      </g>
+    </g>
+  </g>
+</svg>

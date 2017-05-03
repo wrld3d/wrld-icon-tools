@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>border_crossing </title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <rect x="27" y="15" width="27" height="9" style="fill: #0081a1"/>
+        <path d="M40.5,42C48,42,54,36,54,27H27C27,36,33,42,40.5,42Z" style="fill: #0081a1"/>
+        <polygon points="24 49.5 24 81 55.5 81 24 49.5" style="fill: #0081a1"/>
+        <rect x="24" y="84" width="36" height="6" style="fill: #0081a1"/>
+        <polygon points="60 45 28.5 45 60 76.5 60 57 66 57 72 51 66 45 60 45" style="fill: #0081a1"/>
+        <polygon points="71.85 45 78 51 71.85 57 78 57 84 51 78 45 71.85 45" style="fill: #0081a1"/>
+        <polygon points="84 45 90 51 84 57 93 57 93 45 84 45" style="fill: #0081a1"/>
+        <polygon points="87 18 84 15 72 27 63 27 75 39 75 30 87 18" style="fill: #0081a1"/>
+        <polygon points="84 27 84 33 69 18 75 18 84 27" style="fill: #0081a1"/>
+      </g>
+    </g>
+  </g>
+</svg>

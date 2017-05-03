@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 72 72">
+  <defs>
+    <linearGradient id="linear-gradient" x1="36" y1="7.58" x2="36" y2="62.55" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9b0dff"/>
+      <stop offset="1" stop-color="#791dc2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="36" y1="9.24" x2="36" y2="55.73" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>person</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="72" height="72" style="fill: #fff;opacity: 0"/>
+        <path d="M36,63.14c-6.63,0-12-1.47-12-3.7v-22c0-3.9,5.37-7.4,12-7.4s12,3.84,12,7.4v22C48,61.91,42.63,63.14,36,63.14Z" style="fill: url(#linear-gradient)"/>
+        <circle cx="36" cy="18" r="9" style="fill: url(#linear-gradient-2)"/>
+      </g>
+    </g>
+  </g>
+</svg>

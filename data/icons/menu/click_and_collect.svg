@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>click_and_collect</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <path d="M82.5,69l9-9L42,42,60,91.5l9-9L80.25,93.75l13.5-13.5ZM69,75.75,62.25,82.5,51,51,82.5,62.25,75.75,69,87,80.25,80.25,87Z" style="fill: #2e2ee6"/>
+        <path d="M37.5,46.5A4.5,4.5,0,0,0,33,51v4.5a4.5,4.5,0,0,0,9,0V51A4.5,4.5,0,0,0,37.5,46.5Z" style="fill: #2e2ee6"/>
+        <path d="M37.5,15A4.5,4.5,0,0,0,33,19.5V24a4.5,4.5,0,0,0,9,0V19.5A4.5,4.5,0,0,0,37.5,15Z" style="fill: #2e2ee6"/>
+        <path d="M24,33H19.5a4.5,4.5,0,0,0,0,9H24a4.5,4.5,0,0,0,0-9Z" style="fill: #2e2ee6"/>
+        <path d="M55.5,33H51a4.5,4.5,0,0,0,0,9h4.5a4.5,4.5,0,0,0,0-9Z" style="fill: #2e2ee6"/>
+        <circle cx="37.5" cy="37.5" r="4.5" style="fill: #2e2ee6"/>
+      </g>
+    </g>
+  </g>
+</svg>

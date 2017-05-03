@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>limo</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <circle cx="28.5" cy="70.5" r="7.5" style="fill: #e61066"/>
+        <path d="M52.3,58.63" style="fill: #e61066"/>
+        <path d="M101.59,48H84V36H98.48c-.34-.83-.71-1.63-1.09-2.43-.16-.33-.31-.66-.48-1-.44-.87-.89-1.73-1.38-2.57H39L18,48H6.41a46.43,46.43,0,0,0,2,21h6.73a13.42,13.42,0,0,1,26.7,0H99.58a46.43,46.43,0,0,0,2-21ZM78,48H30L42,36H78Z" style="fill: #e61066"/>
+      </g>
+    </g>
+  </g>
+</svg>

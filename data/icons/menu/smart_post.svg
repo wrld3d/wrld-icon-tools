@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>smart_post</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <g>
+          <rect x="57" y="30" width="4.5" height="9" rx="1.5" ry="1.5" style="fill: #15788c"/>
+          <rect x="65.7" y="28.27" width="4.5" height="9" rx="1.5" ry="1.5" transform="translate(-7.28 38.37) rotate(-30)" style="fill: #15788c"/>
+          <rect x="46.05" y="30.52" width="9" height="4.5" rx="1.5" ry="1.5" transform="translate(-3.11 60.16) rotate(-60)" style="fill: #15788c"/>
+          <path d="M63.75,15H49.5C42,15,39,19.72,39,25.5V66a4.5,4.5,0,0,0-4.5,4.5V90H48V70.5A4.5,4.5,0,0,0,43.5,66V25.5c0-3,1.54-6,6-6v3A4.5,4.5,0,0,0,54,27H64.5A4.5,4.5,0,0,0,69,22.5v-3h3V15ZM66,21.75A2.25,2.25,0,0,1,63.75,24h-9a2.25,2.25,0,0,1-2.25-2.25V19.5H66Z" style="fill: #15788c"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

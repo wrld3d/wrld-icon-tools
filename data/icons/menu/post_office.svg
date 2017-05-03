@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>post_office</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <path d="M12,27V81H93V27ZM90,39l-3-3v4.5l3,3V48l-3-3v4.5l3,3V57l-3-3v4.5l3,3V66l-3-3v4.5l3,3V78H85.5l3-3H84l-3,3H76.5l3-3H75l-3,3H67.5l3-3H66l-3,3H58.5l3-3H57l-3,3H49.5l3-3H48l-3,3H40.5l3-3H39l-3,3H31.5l3-3H30l-3,3H22.5l3-3H21l-3,3H15V69l3,3V67.5l-3-3V60l3,3V58.5l-3-3V51l3,3V49.5l-3-3V42l3,3V40.5l-3-3V30h4.5l-3,3H21l3-3h4.5l-3,3H30l3-3h4.5l-3,3H39l3-3h4.5l-3,3H48l3-3h4.5l-3,3H57l3-3h4.5l-3,3H66l3-3h4.5l-3,3H75l3-3h4.5l-3,3H84l3-3h3Z" style="fill: #0081a1"/>
+        <rect x="72" y="39" width="9" height="12" style="fill: #0081a1"/>
+        <rect x="27" y="49.5" width="36" height="4.5" style="fill: #0081a1"/>
+        <rect x="27" y="58.5" width="36" height="4.5" style="fill: #0081a1"/>
+      </g>
+    </g>
+  </g>
+</svg>

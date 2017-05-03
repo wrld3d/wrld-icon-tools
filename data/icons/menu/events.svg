@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>events</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <g>
+          <polygon points="52.5 67.46 40.45 75.6 45.19 62 33 54 47.63 54 52.5 39.6 57.38 54 72 54 59.81 62 64.55 75.6 52.5 67.46" style="fill: #2e2ee6"/>
+          <path d="M75,24V17.27A2.25,2.25,0,0,0,72.73,15l-4.46.07A2.25,2.25,0,0,0,66,17.34V24H39V17.25A2.25,2.25,0,0,0,36.79,15h-4.6a2.25,2.25,0,0,0-2.25,2.25V24H18V87H87V24Zm-6-4.5h3V33H69Zm-36,0h3V33H33ZM84,36V81H21V36" style="fill: #2e2ee6"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

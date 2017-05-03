@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>occupancy_sensor</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <path d="M36,24H12v9a6,6,0,0,0,6,6h4.59a13.5,13.5,0,0,0,26.82,0H54a6,6,0,0,0,6-6V24Zm0,22.5A9,9,0,0,1,27.13,39H44.87A9,9,0,0,1,36,46.5Z" style="fill: #378006"/>
+      </g>
+    </g>
+  </g>
+</svg>

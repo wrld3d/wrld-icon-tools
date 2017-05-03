@@ -1,21 +1,19 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" style="enable-background:new 0 0 72 72;" xml:space="preserve">
-<g id="Person_x5F_Pin">
-	<rect style="opacity:0;fill:#FFFFFF;" width="72" height="72"/>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="36" y1="7.5841" x2="36" y2="62.5497">
-		<stop  offset="0" style="stop-color:#9B0DFF"/>
-		<stop  offset="1" style="stop-color:#791DC2"/>
-	</linearGradient>
-	<path style="fill:url(#SVGID_1_);" d="M36,63.14c-6.627,0-12-1.468-12-3.699V37.397C24,33.493,29.373,30,36,30s12,3.836,12,7.397
-		v22.044C48,61.907,42.627,63.14,36,63.14z"/>
-	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="36" y1="9.2395" x2="36" y2="55.7322">
-		<stop  offset="0" style="stop-color:#9B0DFF"/>
-		<stop  offset="1" style="stop-color:#791DC2"/>
-	</linearGradient>
-	<circle style="fill:url(#SVGID_2_);" cx="36" cy="18" r="9"/>
-</g>
-<g id="Layer_1">
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 108 108">
+  <defs>
+    <linearGradient id="linear-gradient" x1="54" y1="5.96" x2="54" y2="98.01" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9b0dff"/>
+      <stop offset="1" stop-color="#791dc2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="54" y1="9.38" x2="54" y2="86.87" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>person</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="108" height="108" style="fill: #fff;opacity: 0.03"/>
+        <path d="M54,99c-11.6,0-21-2.46-21-6.19V55.89c0-6.54,9.4-12.39,21-12.39s21,6.42,21,12.39V92.81C75,96.94,65.6,99,54,99Z" style="fill: url(#linear-gradient)"/>
+        <circle cx="54" cy="23.98" r="15" style="fill: url(#linear-gradient-2)"/>
+      </g>
+    </g>
+  </g>
 </svg>

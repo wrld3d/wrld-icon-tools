@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>river</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <path d="M16,33H50l2-5L36,20l-8,4L18,15,8.21,24.71A38.07,38.07,0,0,0,6.27,33Z" style="fill: #0e610e"/>
+        <path d="M36,66A30,30,0,0,0,62.1,50.78c-8.39-.2-17-1.55-20.1-2.78-10-4,0-6,0-10s-26-5-26-5H6.27c0,.16,0-.16-.06,0C23.13,36.67,27.43,37.29,22,40c-3.77,1.88-9.31,3.77-13.28,8.47A30,30,0,0,0,36,66Z" style="fill: #276ed9"/>
+        <path d="M64,31l-4-8h2l-4-8-4,8h2l-4,8h2l-4,8h6v6h4V39h5.75l.06-.43L62,31Z" style="fill: #0e610e"/>
+      </g>
+    </g>
+  </g>
+</svg>

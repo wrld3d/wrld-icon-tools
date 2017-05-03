@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>washing_machine</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <path d="M15,57a3,3,0,0,0,3,3H54a3,3,0,0,0,3-3V27H15ZM36,30A12,12,0,1,1,24,42,12,12,0,0,1,36,30Z" style="fill: #006e00"/>
+        <path d="M54,15H18a3,3,0,0,0-3,3v6H57V18A3,3,0,0,0,54,15ZM42,21H30V18H42Zm9,0H48V18h3Z" style="fill: #006e00"/>
+      </g>
+    </g>
+  </g>
+</svg>

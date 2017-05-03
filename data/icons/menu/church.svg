@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>church</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <g>
+          <path d="M24,69H42.15a10.45,10.45,0,0,1,20.7,0H81L57,45V27h9V18H57V9H48v9H39v9h9V45Z" style="fill: #0081a1"/>
+          <path d="M52.5,81a10.47,10.47,0,0,1-10.35-9H24V90H81V72H62.85A10.47,10.47,0,0,1,52.5,81Z" style="fill: #0081a1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

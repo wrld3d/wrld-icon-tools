@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>historic_monument</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <path d="M36,0A36,36,0,1,0,72,36,36,36,0,0,0,36,0Z" style="fill: #fff;opacity: 0"/>
+        <path d="M54,23V12H48v9H39V12H33v9H24V12H18V23l3,7V50L18,60H54L51,50V30ZM42,48H30V39a6,6,0,0,1,12,0Z" style="fill: #99501f"/>
+      </g>
+    </g>
+  </g>
+</svg>

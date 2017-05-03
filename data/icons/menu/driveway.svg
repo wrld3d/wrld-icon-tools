@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>driveway</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <polygon points="52.5 9 36 18 36 24 52.5 15 69 24 69 18 52.5 9" style="fill: #6a17e6"/>
+        <g>
+          <polygon points="57 36 57 45 66 45 66 27 52.5 19.5 39 27 39 45 48 45 48 36 57 36" style="fill: #6a17e6"/>
+          <path d="M61.5,72c0-10.06,9-13.5,9-18S59.25,45,57,45H48c1.38.63,9,4.5,4.5,9S39,63,34.21,67.61C30.69,71,21.6,80.23,21,90H84C75,85.5,61.5,81,61.5,72Z" style="fill: #6a17e6"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

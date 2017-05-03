@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>uber</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <path d="M36,6A30,30,0,0,0,6.08,34.5H27v-6A1.5,1.5,0,0,1,28.5,27h15A1.5,1.5,0,0,1,45,28.5v15A1.5,1.5,0,0,1,43.5,45h-15A1.5,1.5,0,0,1,27,43.5v-6H6.08A30,30,0,1,0,36,6Z" style="fill: #0e3644"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>stairs</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="72" height="72" style="fill: #fff;opacity: 0"/>
+        <path d="M44,15a1.85,1.85,0,0,0-2,2,1.85,1.85,0,0,0,2,2v7H34a1.85,1.85,0,0,0-2,2,1.85,1.85,0,0,0,2,2v6H24a1.89,1.89,0,0,0-2,2,1.84,1.84,0,0,0,1.94,2H24v7H14a2,2,0,0,0,0,4v6h4V51H28V40H38V30H48V19h9V15Z" style="fill: #a63251"/>
+      </g>
+    </g>
+  </g>
+</svg>

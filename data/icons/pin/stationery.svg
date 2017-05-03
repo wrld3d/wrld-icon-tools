@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 72 72">
+  <defs>
+    <clipPath id="clip-path">
+      <path d="M12.75,28.59c6.92-2,22.47-6.47,25.71-7.37a18.59,18.59,0,0,0,7.4-3.86A16,16,0,0,0,51.73,22l7.11,3.3L25,35.87ZM44.86,14.11s-2.16,2.83-7.2,4.22c-4.2,1.16-28.83,8.26-29.08,8.34a1.5,1.5,0,0,0-.35,2.73L24,38.79a1.5,1.5,0,0,0,1.21.14l38.2-11.88a1.5,1.5,0,0,0,.19-2.79L53,19.33a12.68,12.68,0,0,1-5.58-5,1.5,1.5,0,0,0-1.22-.82h-.12a1.5,1.5,0,0,0-1.22.62" style="fill: none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-703.58" y1="1279.96" x2="-702.58" y2="1279.96" gradientTransform="matrix(0, 43.25, 43.25, 0, -55322.33, 30443.66)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d5fb0"/>
+      <stop offset="1" stop-color="#0d5fb0"/>
+    </linearGradient>
+  </defs>
+  <title>stationery</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="72" height="72" style="fill: #fff;opacity: 0"/>
+        <g style="clip-path: url(#clip-path)">
+          <rect x="7.44" y="13.49" width="57.1" height="25.51" style="fill: url(#linear-gradient)"/>
+        </g>
+        <path d="M24.8,45a1.5,1.5,0,0,1-.77-.21L8.23,35.39a1.5,1.5,0,0,1,1.53-2.58L25,41.87,62.55,30.19a1.5,1.5,0,0,1,.89,2.87L25.25,44.93a1.48,1.48,0,0,1-.44.07" style="fill: #0d5fb0"/>
+        <path d="M24.83,51a1.5,1.5,0,0,1-.76-.21L8.24,41.43a1.5,1.5,0,0,1,1.53-2.58l15.25,9L62.55,36.1a1.5,1.5,0,0,1,.9,2.86l-38.17,12a1.47,1.47,0,0,1-.45.07" style="fill: #0d5fb0"/>
+        <path d="M24.8,57a1.5,1.5,0,0,1-.77-.21L8.23,47.39a1.5,1.5,0,0,1,1.53-2.58L25,53.87,62.55,42.19a1.5,1.5,0,0,1,.89,2.87L25.25,56.93a1.48,1.48,0,0,1-.44.07" style="fill: #0d5fb0"/>
+      </g>
+    </g>
+  </g>
+</svg>

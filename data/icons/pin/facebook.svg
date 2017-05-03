@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>facebook</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <path d="M36,6A30,30,0,1,0,66,36,30,30,0,0,0,36,6Zm7.43,28.73H37.71V54H30V34.73H26.15V27H30V23.53c0-3.15,1.5-8.08,8.11-8.08l6,0v6.6H39.71A1.63,1.63,0,0,0,38,23.94V27h6.13Z" style="fill: #235b9e"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>airport</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <path d="M39,24,15,16,9,21,31.5,31.5,19,47l-8-1L9,48l6,6.06L21,60l1.95-1.95-.81-8L37.5,37.5,48,60l5.5-6L45,30,56,18a3.53,3.53,0,0,0-5-5Z" style="fill: #e61066"/>
+      </g>
+    </g>
+  </g>
+</svg>

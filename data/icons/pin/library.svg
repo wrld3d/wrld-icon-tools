@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>library</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <path d="M12,17.17V53c10-4,19.35,0,22.5,4V19.16C30.5,15.18,24,13.19,12,17.17Z" style="fill: #068037"/>
+        <path d="M39,19.16V57c3.15-4,11-8,21-4V17.17C50,13.19,43,15.18,39,19.16Z" style="fill: #068037"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>printer</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="108" height="108" style="fill: #fff;opacity: 0"/>
+        <rect x="40.5" y="66" width="27" height="4.5" style="fill: #569ad5"/>
+        <rect x="40.5" y="75" width="27" height="4.5" style="fill: #569ad5"/>
+        <path d="M75,39V21H45L33,33v6H18V75H33V87H75V75H90V39ZM33,66H30a3,3,0,0,1,0-6h3Zm39-.05V84H36V60H72ZM72,39H36V33h9V25.5H72Zm6,27H75V60h3a3,3,0,0,1,0,6Zm1.5-12A4.5,4.5,0,1,1,84,49.5,4.5,4.5,0,0,1,79.5,54Z" style="fill: #569ad5"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>security_alarm</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <polygon points="54 10.5 15 36 15 43.5 54 18 93 43.5 93 36 54 10.5" style="fill: #378006"/>
+        <polygon points="78 84 30 84 30 41.25 24 45 24 90 84 90 84 45 78 41.25 78 84" style="fill: #378006"/>
+        <path d="M66,51V39a12,12,0,0,0-24,0v6h6V39a6,6,0,0,1,12,0V51H36V78H72V51ZM54,72a7.5,7.5,0,1,1,7.5-7.5A7.5,7.5,0,0,1,54,72Z" style="fill: #378006"/>
+      </g>
+    </g>
+  </g>
+</svg>

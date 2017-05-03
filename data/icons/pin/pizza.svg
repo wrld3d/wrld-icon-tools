@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>pizza</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <path d="M65,36C55,18,41,9,21,9v7c18,0,30,8.12,38,23.33L65,36Z" style="fill: #00856a"/>
+        <path d="M56,40.84l0,0h0Z" style="fill: #00856a"/>
+        <path d="M56,41C49,28.19,37,19,21,19V60ZM29,36a4,4,0,1,1,4-4A4,4,0,0,1,29,36Zm14,6a4,4,0,1,1,4-4A4,4,0,0,1,43,42ZM31,50a4,4,0,1,1,4-4A4,4,0,0,1,31,50Z" style="fill: #00856a"/>
+      </g>
+    </g>
+  </g>
+</svg>

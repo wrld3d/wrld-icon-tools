@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>place_of_worship</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <circle cx="57" cy="24" r="9" style="fill: #0081a1"/>
+        <path d="M39,45,33,60s-3,6,3,9,15,9,15,9H30a2.94,2.94,0,0,0-3,3v3a2.94,2.94,0,0,0,3,3H63s6,0,6-6c0-3-3-6-3-6L48,63,60,45l18-3,3-15V21a3,3,0,0,0-6,0v3L70.5,36H51S42,36,39,45Z" style="fill: #0081a1"/>
+      </g>
+    </g>
+  </g>
+</svg>

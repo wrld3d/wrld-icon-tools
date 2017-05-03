@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>art</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="108" height="108" style="fill: #fff;opacity: 0"/>
+        <rect x="27" y="33" width="54" height="4.5" transform="translate(108 70.5) rotate(180)" style="fill: #99501f"/>
+        <rect x="22.5" y="84" width="63" height="9" transform="translate(108 177) rotate(180)" style="fill: #99501f"/>
+        <polygon points="22.5 24.95 54 4.5 85.5 24.95 85.5 27 22.5 27 22.5 24.95" style="fill: #99501f"/>
+        <polygon points="76.61 45.17 81 42 67.5 42 71.89 45.17 69.96 74.71 67.5 78 69.75 78 78.75 78 81 78 78.54 74.71 76.61 45.17" style="fill: #99501f"/>
+        <polygon points="36.11 45.17 40.5 42 27 42 31.39 45.17 29.46 74.71 27 78 29.25 78 38.25 78 40.5 78 38.04 74.71 36.11 45.17" style="fill: #99501f"/>
+        <polygon points="56.36 45.17 60.75 42 47.25 42 51.64 45.17 49.71 74.71 47.25 78 49.5 78 58.5 78 60.75 78 58.29 74.71 56.36 45.17" style="fill: #99501f"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>hospital</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <path d="M54,12H18a6,6,0,0,0-6,6V54a6,6,0,0,0,6,6H54a6,6,0,0,0,6-6V18A6,6,0,0,0,54,12Zm0,39.43A2.57,2.57,0,0,1,51.43,54H20.57A2.57,2.57,0,0,1,18,51.43V20.57A2.57,2.57,0,0,1,20.57,18H51.43A2.57,2.57,0,0,1,54,20.57Z" style="fill: #276ed9"/>
+        <polygon points="48 33 39 33 39 24 33 24 33 33 24 33 24 39 33 39 33 48 39 48 39 39 48 39 48 33" style="fill: #e62e2e"/>
+      </g>
+    </g>
+  </g>
+</svg>

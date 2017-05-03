@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>pin</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="72" height="72" style="fill: #fff;opacity: 0"/>
+        <path d="M54,24a18,18,0,1,0-34.48,7.23h0l.41.82c.1.2.19.4.29.59L36,66,52.36,31.5h0A17.9,17.9,0,0,0,54,24ZM36,39A15,15,0,1,1,51,24,15,15,0,0,1,36,39Z" style="fill: #0d8549"/>
+        <circle cx="36" cy="24" r="6" style="fill: #0e8c4d"/>
+      </g>
+    </g>
+  </g>
+</svg>

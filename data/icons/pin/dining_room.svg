@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>dining_room</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <g>
+          <path d="M30,36H18V18a3,3,0,0,0-6,0V54h6V42h9V54h6V39A3,3,0,0,0,30,36Z" style="fill: #6a17e6"/>
+          <polygon points="66 27 27 27 27 33 39 33 39 54 45 54 45 33 66 33 66 27" style="fill: #6a17e6"/>
+          <polygon points="40.5 24 45 18 27 18 31.5 24 40.5 24" style="fill: #6a17e6"/>
+          <polygon points="54 24 55.5 13.5 46.5 13.5 48 24 54 24" style="fill: #6a17e6"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

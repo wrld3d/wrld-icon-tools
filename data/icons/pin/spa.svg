@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>spa</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <path d="M15,45a3,3,0,0,0-3,3v3h6v9h3l3-9h6V45Z" style="fill: #276ed9"/>
+        <path d="M42,44v7h9l3,9h3V48l9-18-2-1a2.86,2.86,0,0,0-4,1l-4.5,9H45Zm10.5,1H44l2-3h8Z" style="fill: #276ed9"/>
+        <path d="M57,21a3,3,0,0,0,3-3L36,9,12,18a3,3,0,0,0,3,3H33V60h6V21Z" style="fill: #276ed9"/>
+      </g>
+    </g>
+  </g>
+</svg>

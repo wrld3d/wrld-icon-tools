@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>wine</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <path d="M52,25c0-10-4-16-4-16H24s-4,6-4,16S33,39,33,39V57l-9,3v3H48V60l-9-3V39S52,35,52,25ZM46,12a34.51,34.51,0,0,1,1.83,9H24.17A34.51,34.51,0,0,1,26,12Z" style="fill: #00856a"/>
+      </g>
+    </g>
+  </g>
+</svg>

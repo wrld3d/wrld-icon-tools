@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 108 108">
+  <defs>
+    <linearGradient id="linear-gradient" x1="54" y1="18.14" x2="54" y2="64.99" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5b02ff"/>
+      <stop offset="1" stop-color="#4a02d1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="21" y1="27.14" x2="21" y2="73.99" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="19.5" y1="29.64" x2="19.5" y2="74.76" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="1890" y1="27.14" x2="1890" y2="73.99" gradientTransform="matrix(-1, 0, 0, 1, 1977, 0)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="1888.5" y1="29.64" x2="1888.5" y2="74.76" gradientTransform="matrix(-1, 0, 0, 1, 1977, 0)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" y1="34.06" x2="54" y2="92.52" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="47.21" y1="31.8" x2="47.21" y2="56.87" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="60.79" y1="31.8" x2="60.79" y2="56.87" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>meeting_room</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="108" height="108" style="fill: #fff;opacity: 0"/>
+        <circle cx="54" cy="27" r="9" style="fill: url(#linear-gradient)"/>
+        <circle cx="21" cy="36" r="9" style="fill: url(#linear-gradient-2)"/>
+        <path d="M21.76,74.94,30,58.7V54.24c0-3-4.7-6.24-10.5-6.24S9,50.95,9,54.24V71.88C9,73.76,13.7,75,19.5,75,20.28,75,21,75,21.76,74.94Z" style="fill: url(#linear-gradient-3)"/>
+        <circle cx="87" cy="36" r="9" style="fill: url(#linear-gradient-4)"/>
+        <path d="M86.24,74.94,78,58.7V54.24c0-3,4.7-6.24,10.5-6.24S99,50.95,99,54.24V71.88C99,73.76,94.3,75,88.5,75,87.72,75,87,75,86.24,74.94Z" style="fill: url(#linear-gradient-5)"/>
+        <polygon points="83.25 93 24.75 93 39 66 69 66 83.25 93" style="fill: url(#linear-gradient-6)"/>
+        <g>
+          <path d="M40.43,50.36V57H54V54L49.5,42C43.61,42.95,40.43,46.64,40.43,50.36Z" style="fill: url(#linear-gradient-7)"/>
+          <path d="M58.5,42,54,54v3H67.57V50.36C67.57,47,64.39,43,58.5,42Z" style="fill: url(#linear-gradient-8)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>fashion_men</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <path d="M54,18,43.5,15,39,42H33L28.5,15,18,18,9,48l6,3,6-15V60H51V36l6,15,6-3ZM36,57a2.25,2.25,0,1,1,2.25-2.25A2.25,2.25,0,0,1,36,57Zm0-7.5a2.25,2.25,0,1,1,2.25-2.25A2.25,2.25,0,0,1,36,49.5Z" style="fill: #2e2ee6"/>
+        <polygon points="39 15 36 12 33 15 33 18 36 42 39 18 39 15" style="fill: #2e2ee6"/>
+      </g>
+    </g>
+  </g>
+</svg>

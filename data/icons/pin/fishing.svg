@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>fishing</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <path d="M39,50h6v4s0,6-6,6-6-6-6-6V20.17a6,6,0,1,0-6,0V54s0,12,12,12S51,54,51,54V34ZM27,15a3,3,0,1,1,6,0,3,3,0,0,1-6,0Z" style="fill: #a714cc"/>
+      </g>
+    </g>
+  </g>
+</svg>

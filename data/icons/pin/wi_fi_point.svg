@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>wi_fi_point</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <g>
+          <circle cx="36" cy="54" r="6" style="fill: #378006"/>
+          <path d="M36,18A35.89,35.89,0,0,1,61.46,28.54L65.7,24.3a42,42,0,0,0-59.4,0l4.24,4.24A35.89,35.89,0,0,1,36,18Z" style="fill: #378006"/>
+          <path d="M36,30a23.93,23.93,0,0,1,17,7l4.24-4.24a30,30,0,0,0-42.43,0L19,37A23.93,23.93,0,0,1,36,30Z" style="fill: #378006"/>
+          <path d="M36,42a12,12,0,0,1,8.49,3.51l4.24-4.24a18,18,0,0,0-25.46,0l4.24,4.24A12,12,0,0,1,36,42Z" style="fill: #378006"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

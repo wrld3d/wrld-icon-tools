@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>alert</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <path d="M54,18A36,36,0,1,0,90,54,36,36,0,0,0,54,18ZM49.5,30h9V54h-9ZM54,69a6,6,0,1,1,6-6A6,6,0,0,1,54,69Z" style="fill: #202020"/>
+      </g>
+    </g>
+  </g>
+</svg>

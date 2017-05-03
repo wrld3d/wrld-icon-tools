@@ -1,7 +1,7 @@
 #!/bin/bash
 
 function process_failure {
-   echo "INSTALL FAILED AT setup-git.sh:$1"
+   echo "Failed to generate icon assets"
    exit 1
 }
 

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>meeting_room_available</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <path d="M75,21V14.27A2.25,2.25,0,0,0,72.73,12l-7.46.07A2.25,2.25,0,0,0,63,14.34V21H42V14.25A2.25,2.25,0,0,0,39.79,12h-7.6a2.25,2.25,0,0,0-2.25,2.25V21H15V84H90V21Zm-9-4.5h6V30H66ZM33,78H18V66H33Zm0-15H18V51H33Zm0-15H18V36H33Zm0-31.5h6V30H33ZM51,78H36V66H51Zm0-15H36V51H51Zm0-15H36V36H51ZM69,78H54V66H69Zm0-15H54V51H69Zm0-15H54V36H69ZM87,78H72V66H87Zm0-15H72V51H87Zm0-15H72V36H87Z" style="fill: #009934"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>police</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <line x1="89.6" y1="67.64" x2="20.59" y2="67.64" style="fill: #0081a1"/>
+        <g>
+          <path d="M81,24,54,15,27,24,13.5,37.5,18,51h9v9h9V51h9v9h9V51h9v9h9V51h9v9h9V51l4.5-13.5ZM61.8,45,54,40.88,46.2,45l1.49-8.68-6.31-6.15,8.72-1.27L54,21l3.9,7.9,8.72,1.27-6.31,6.15Z" style="fill: #0081a1"/>
+          <path d="M81,69V60H72v9H63V60H54v9H45V60H36v9H27V60H18v9c0,12.71,16.12,21,36,21s36-8.29,36-21Z" style="fill: #0081a1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

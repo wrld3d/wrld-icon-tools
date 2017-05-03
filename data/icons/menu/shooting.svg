@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 107.99 108">
+  <title>shooting</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <ellipse cx="53.99" cy="54" rx="53.99" ry="54" style="fill: #fff;opacity: 0"/>
+        <path d="M55.49,24l-9,4.5h-9L24,33v4.5A4.5,4.5,0,0,0,28.5,42H33V55.5L27,96h6l9-36,3,36h6V42l9,4.5L78,33V28.5h13.5V24ZM60,39.75,51,33H69Z" style="fill: #a714cc"/>
+        <circle cx="43.5" cy="16.5" r="7.5" style="fill: #a714cc"/>
+      </g>
+    </g>
+  </g>
+</svg>

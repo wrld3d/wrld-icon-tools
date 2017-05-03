@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>fashion</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <path d="M61.34,44.17,39,33V28A10.48,10.48,0,1,0,25.5,18H30a6,6,0,1,1,9,5.17A5.94,5.94,0,0,1,36,24H33v9L10.66,44.17A3,3,0,0,0,9,46.85V54H63V46.85A3,3,0,0,0,61.34,44.17ZM57,49.5H15V48l18-9h6l18,9Z" style="fill: #2e2ee6"/>
+      </g>
+    </g>
+  </g>
+</svg>

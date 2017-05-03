@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>temperature_sensor</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <path d="M66,63.69V22.5a13.5,13.5,0,0,0-27,0V63.69a20.25,20.25,0,1,0,27,0ZM52.5,94.5a15.74,15.74,0,0,1-9-28.67V22.5a9,9,0,0,1,18,0V65.83a15.74,15.74,0,0,1-9,28.67Z" style="fill: #378006"/>
+        <path d="M56.94,71H57V39H48V71h.06a9,9,0,1,0,8.87,0Z" style="fill: #378006"/>
+      </g>
+    </g>
+  </g>
+</svg>

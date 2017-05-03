@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>atm</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <rect x="30" y="42" width="12" height="6" style="fill: #0081a1"/>
+        <path d="M54,15H18a6,6,0,0,0-6,6V51a6,6,0,0,0,6,6H54a6,6,0,0,0,6-6V21A6,6,0,0,0,54,15ZM21,36H15V33h6Zm0-6H15V27h6Zm0-6H15V21h6ZM48,42H45v9H27V42H24V39H48Zm0-6H24V21H48Zm9,0H51V33h6Zm0-6H51V27h6Zm0-6H51V21h6Z" style="fill: #0081a1"/>
+      </g>
+    </g>
+  </g>
+</svg>

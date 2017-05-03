@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 72 72">
+  <defs>
+    <linearGradient id="linear-gradient" y1="36" x2="72" y2="36" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <title>hostel</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="opacity: 0;fill: url(#linear-gradient)"/>
+        <circle cx="22.5" cy="40.5" r="4.5" style="fill: #d82121"/>
+        <polygon points="57 39 57 48 15 48 15 33 12 33 12 57 15 57 15 54 57 54 57 57 60 57 60 39 57 39" style="fill: #d82121"/>
+        <path d="M30,36v9H54V44a8,8,0,0,0-8.09-8Z" style="fill: #d82121"/>
+        <circle cx="22.5" cy="19.5" r="4.5" style="fill: #d82121"/>
+        <polygon points="57 18 57 27 15 27 15 12 12 12 12 36 15 36 15 33 57 33 57 42 60 42 60 18 57 18" style="fill: #d82121"/>
+        <path d="M30,15v9H54V23a8,8,0,0,0-8.09-8Z" style="fill: #d82121"/>
+      </g>
+    </g>
+  </g>
+</svg>

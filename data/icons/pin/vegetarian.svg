@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>vegetarian</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <g>
+          <path d="M39,51s6-15-9-24A28.07,28.07,0,0,0,9,24s3,3,6,12c0,0,3,15,21,18,0,0,0-12-9-21C27,33,36,36,39,51Z" style="fill: #00856a"/>
+          <path d="M45,27c-6,6-3,18-3,18,0-6,9-15,9-15a35.74,35.74,0,0,0-6,18s9-3,12-9,3-21,3-21S51,21,45,27Z" style="fill: #00856a"/>
+          <path d="M48,48c-6,0-9,9-9,9a9.29,9.29,0,0,1,6-3c3,3,9,3,9,3S54,48,48,48Z" style="fill: #00856a"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

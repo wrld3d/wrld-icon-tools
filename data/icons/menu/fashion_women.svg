@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>fashion_women</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <path d="M54,60a4.49,4.49,0,0,1-4.22-3H42L33,90H75L66,57H58.22A4.49,4.49,0,0,1,54,60Z" style="fill: #2e2ee6"/>
+        <path d="M66,39,81,63l9-4.5L72,20.25,63,18a9,9,0,0,1-18,0l-9,2.25L18,58.5,27,63,42,39V54h7.78a4.47,4.47,0,0,1,8.45,0H66Z" style="fill: #2e2ee6"/>
+      </g>
+    </g>
+  </g>
+</svg>

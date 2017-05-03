@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>toilet_ladies</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <polygon points="34.5 54 33 66 30 66 30 54 24 54 30 36 30 30 23 40 20 40 30 21 42 21 52 40 49 40 42 30 42 36 48 54 42 54 42 66 39 66 37.5 54 34.5 54" style="fill: #0081a1"/>
+        <path d="M30,12a6,6,0,1,1,6,6,6,6,0,0,1-6-6" style="fill: #0081a1"/>
+      </g>
+    </g>
+  </g>
+</svg>

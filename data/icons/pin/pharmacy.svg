@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>pharmacy</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <polygon points="39 30 33 30 33 36 27 36 27 42 33 42 33 48 39 48 39 42 45 42 45 36 39 36 39 30" style="fill: none"/>
+        <path d="M51,18H45a9,9,0,0,0-18,0H21L15,56.58A3,3,0,0,0,18,60H54a3,3,0,0,0,3-3.42ZM36,12a6,6,0,0,1,6,6H30A6,6,0,0,1,36,12Zm9,30H39v6H33V42H27V36h6V30h6v6h6Z" style="fill: #2e2ee6"/>
+      </g>
+    </g>
+  </g>
+</svg>

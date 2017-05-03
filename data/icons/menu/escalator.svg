@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>escalator</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="108" height="108" style="fill: #fff;opacity: 0"/>
+        <path d="M57,43.5c0-4.41-2.59-7.5-6-7.5-3.75,0-6,3-6,6.79V51Z" style="fill: #e9692d"/>
+        <path d="M81,54h6a9,9,0,0,0,0-18H78L30,69H24c-5.06,0-9,3.61-9,8.73A9.08,9.08,0,0,0,24,87h9ZM30,84,18,78l12-6ZM81,51V39l12,6Z" style="fill: #e9692d"/>
+        <path d="M45,24.75a6.75,6.75,0,1,1,6.75,6.75A6.75,6.75,0,0,1,45,24.75" style="fill: #e9692d"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 72 72">
+  <defs>
+    <linearGradient id="linear-gradient" x1="36" y1="9.09" x2="36" y2="40.32" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5b02ff"/>
+      <stop offset="1" stop-color="#4a02d1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="15" y1="15.09" x2="15" y2="46.32" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="13.5" y1="17.75" x2="13.5" y2="47.85" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="1884" y1="15.09" x2="1884" y2="46.32" gradientTransform="matrix(-1, 0, 0, 1, 1941, 0)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="1882.5" y1="17.75" x2="1882.5" y2="47.85" gradientTransform="matrix(-1, 0, 0, 1, 1941, 0)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" y1="20.71" x2="36" y2="59.68" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="31.5" y1="15.84" x2="31.5" y2="35.89" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="40.5" y1="15.84" x2="40.5" y2="35.89" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>meeting_room</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="72" height="72" style="fill: #fff;opacity: 0"/>
+        <circle cx="36" cy="15" r="6" style="fill: url(#linear-gradient)"/>
+        <circle cx="15" cy="21" r="6" style="fill: url(#linear-gradient-2)"/>
+        <path d="M15,48l6-10.87v-3c0-2-3.36-4.16-7.5-4.16S6,32,6,34.16V45.92C6,47.17,9.36,48,13.5,48,14.06,48,14.48,48,15,48Z" style="fill: url(#linear-gradient-3)"/>
+        <circle cx="57" cy="21" r="6" style="fill: url(#linear-gradient-4)"/>
+        <path d="M57,48,51,37.13v-3c0-2,3.36-4.16,7.5-4.16S66,32,66,34.16V45.92C66,47.17,62.64,48,58.5,48,57.94,48,57.52,48,57,48Z" style="fill: url(#linear-gradient-5)"/>
+        <polygon points="55.5 60 16.5 60 26 42 46 42 55.5 60" style="fill: url(#linear-gradient-6)"/>
+        <g>
+          <path d="M27,30v6h9V33l-3-9C29.07,24.76,27,27,27,30Z" style="fill: url(#linear-gradient-7)"/>
+          <path d="M39,24l-3,9v3h9V30C45,27.28,42.93,24.82,39,24Z" style="fill: url(#linear-gradient-8)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

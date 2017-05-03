@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>bathroom</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <polygon points="15 60 12 60 15 39 15 30 10.5 37.5 7.5 37.5 13.5 24 25.5 24 31.5 37.5 28.5 37.5 24 30 24 39 27 60 24 60 19.5 42 15 60" style="fill: #15788c"/>
+        <path d="M15,16.5A4.5,4.5,0,1,1,19.5,21,4.5,4.5,0,0,1,15,16.5" style="fill: #15788c"/>
+        <polygon points="63 49.5 58.5 49.5 60 60 57 60 54 49.5 51 49.5 48 60 45 60 46.5 49.5 42 49.5 48 36 48 30 42 37.5 39 37.5 48 24 57 24 66 37.5 63 37.5 57 30 57 36 63 49.5" style="fill: #15788c"/>
+        <path d="M48,16.5A4.5,4.5,0,1,1,52.5,21,4.5,4.5,0,0,1,48,16.5" style="fill: #15788c"/>
+        <rect x="34.5" y="9" width="3" height="54" style="fill: #15788c"/>
+      </g>
+    </g>
+  </g>
+</svg>

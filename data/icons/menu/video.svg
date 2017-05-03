@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>video</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <path d="M94.5,30H63V24a9,9,0,0,0-9-9H27a9,9,0,0,0-9,9V84a9,9,0,0,0,9,9H54a9,9,0,0,0,9-9V60H94.5A4.5,4.5,0,0,0,99,55.5v-21A4.5,4.5,0,0,0,94.5,30Zm-54,33A19.5,19.5,0,1,1,60,43.5,19.5,19.5,0,0,1,40.5,63Z" style="fill: #668000"/>
+        <circle cx="40.5" cy="43.5" r="13.5" style="fill: #668000"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>fire_extinguisher</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="108" height="108" style="fill: #fff;opacity: 0"/>
+        <path d="M60,20.25v3H49.5V19.83a4.5,4.5,0,1,0-6,0V22.7c-5.38.58-18,2.85-22.5,11.8v6c4.47-8.95,17.12-12.06,22.5-13.06v2.8c-5.95,1.2-10.5,7-10.5,13.26V93H60V43.5c0-6.24-4.55-12.06-10.5-13.26v-4H60v3l24,4.5v-18Z" style="fill: #e62e2e"/>
+      </g>
+    </g>
+  </g>
+</svg>

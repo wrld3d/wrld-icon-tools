@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>home</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <path d="M15,30V60H30V45H42V60H57V30L36,18Zm15,9H21V30h9Zm12-9h9v9H42Z" style="fill: #0081a1"/>
+        <polygon points="36 6 27 11 27 9 18 9 18 16 9 21 9 27 36 12 63 27 63 21 36 6" style="fill: #0081a1"/>
+      </g>
+    </g>
+  </g>
+</svg>

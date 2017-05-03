@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>oven</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <path d="M21,82.5A4.5,4.5,0,0,0,25.5,87h57A4.5,4.5,0,0,0,87,82.5V78H21Z" style="fill: #006e00"/>
+        <rect x="21" y="36" width="66" height="39" style="fill: #006e00"/>
+        <path d="M82.5,18h-57A4.5,4.5,0,0,0,21,22.5V33H87V22.5A4.5,4.5,0,0,0,82.5,18ZM36,30H30V24h6Zm27,0H45V24H63Zm15,0H72V24h6Z" style="fill: #006e00"/>
+      </g>
+    </g>
+  </g>
+</svg>

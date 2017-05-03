@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>my_location</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="108" height="108" style="fill: #fff;opacity: 0"/>
+        <path d="M81,36A27,27,0,1,0,29.28,46.84h0l.61,1.24c.15.29.28.59.44.88L54,99,78.54,47.25h0A26.85,26.85,0,0,0,81,36Z" style="fill: #0c8046"/>
+        <circle cx="54" cy="36" r="22.5" style="fill: #ff3"/>
+        <polygon points="54 16.5 58.17 30 72 30 60.75 37.89 65.25 51 54 42.79 42.75 51 47.25 37.89 36 30 49.83 30 54 16.5" style="fill: #0c8046"/>
+      </g>
+    </g>
+  </g>
+</svg>

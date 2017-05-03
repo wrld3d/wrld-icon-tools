@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>virtual_tour</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <path d="M90.19,27a44.88,44.88,0,0,0-72.38,0c9.58-5.78,22.25-9.34,36.19-9.34S80.61,21.22,90.19,27Z" style="fill: #668000"/>
+        <path d="M17.62,81A44.88,44.88,0,0,0,90,81c-9.58,5.78-22.25,9.34-36.19,9.34S27.2,86.78,17.62,81Z" style="fill: #668000"/>
+        <polygon points="36 36 12 36 12 45 18 45 18 42 30 42 30 51 18 51 18 57 30 57 30 69 18 69 18 63 12 63 12 75 36 75 36 36" style="fill: #668000"/>
+        <path d="M66,42V36H42V75H66V51H48V42ZM60,57V69H48V57Z" style="fill: #668000"/>
+        <path d="M72,36V75H96V36ZM90,69H78V42H90Z" style="fill: #668000"/>
+      </g>
+    </g>
+  </g>
+</svg>

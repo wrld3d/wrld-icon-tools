@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>first_aid</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <polygon points="42 12 30 12 27 12 27 15 27 20 30 20 30 15 42 15 42 20 45 20 45 15 45 12 42 12" style="fill: #276ed9"/>
+        <polygon points="39 27 33 27 33 33 27 33 27 39 33 39 33 45 39 45 39 39 45 39 45 33 39 33 39 27" style="fill: #e62e2e"/>
+        <path d="M54,18H18a6,6,0,0,0-6,6V48a6,6,0,0,0,6,6H54a6,6,0,0,0,6-6V24A6,6,0,0,0,54,18ZM36,51A15,15,0,1,1,51,36,15,15,0,0,1,36,51Z" style="fill: #276ed9"/>
+      </g>
+    </g>
+  </g>
+</svg>

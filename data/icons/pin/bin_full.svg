@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>bin_full</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <path d="M21,21V55.5A4.5,4.5,0,0,0,25.5,60h18A4.5,4.5,0,0,0,48,55.5V21Zm9,31.5a1.5,1.5,0,0,1-3,0v-24a1.5,1.5,0,0,1,3,0Zm6,0a1.5,1.5,0,0,1-3,0v-24a1.5,1.5,0,0,1,3,0Zm6,0a1.5,1.5,0,0,1-3,0v-24a1.5,1.5,0,0,1,3,0Z" style="fill: #d1021a"/>
+        <path d="M48,12H39V10.5A1.5,1.5,0,0,0,37.5,9h-6A1.5,1.5,0,0,0,30,10.5V12H21a3,3,0,0,0-3,3v3H51V15A3,3,0,0,0,48,12Z" style="fill: #d1021a"/>
+      </g>
+    </g>
+  </g>
+</svg>

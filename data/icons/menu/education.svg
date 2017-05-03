@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>education</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <path d="M30,54V69c0,4.14,11.57,9,24,9s24-4.86,24-9V54L54,63Z" style="fill: #0081a1"/>
+        <path d="M96,63a6,6,0,0,0-3-5.17V44l6-2L54,27,9,42,54,57,87,46V57.83a6,6,0,0,0-.47,10L84,78H96l-2.8-9.94A6,6,0,0,0,96,63Z" style="fill: #0081a1"/>
+      </g>
+    </g>
+  </g>
+</svg>

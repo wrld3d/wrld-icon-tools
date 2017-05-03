@@ -1,8 +1,4 @@
 {
- "cell-size": 28,
- "sheet-size": 320,
- "mode": "sheet",
- "icon-size": 24,
  "icons": [
   {
    "id": "blank"
@@ -13,486 +9,730 @@
    "cell-size": 8
   },
   {
-   "id": "accommodation",
-   "file": "pin/Accommodation_Pin.svg"
-  },
-  {
-   "id": "airport",
-   "file": "pin/Airport_Pin.svg"
-  },
-  {
-   "id": "art_museums",
-   "file": "pin/Art_Pin.svg"
-  },
-  {
-   "id": "atm",
-   "file": "pin/Atm_Pin.svg"
-  },
-  {
-   "id": "bank",
-   "file": "pin/Bank_Pin.svg"
-  },
-  {
-   "id": "bed_breakfast",
-   "file": "pin/Bed_Breakfast_Pin.svg"
-  },
-  {
-   "id": "beer",
-   "file": "pin/Beer_Pin.svg"
-  },
-  {
-   "id": "burgers",
-   "file": "pin/Burgers_Pin.svg"
-  },
-  {
-   "id": "bus",
-   "file": "pin/Bus_Pin.svg"
-  },
-  {
-   "id": "business",
-   "file": "pin/Business_Pin.svg"
-  },
-  {
-   "id": "camping",
-   "file": "pin/Camping_Pin.svg"
-  },
-  {
-   "id": "entertainment",
-   "file": "pin/Entertainment_Pin.svg"
-  },
-  {
-   "id": "amenities",
-   "file": "pin/General_Pin.svg"
-  },
-  {
-   "id": "health",
-   "file": "pin/Health_Pin.svg"
-  },
-  {
-   "id": "my_pins",
-   "file": "pin/MyLocationsPIN_Pin.svg"
-  },
-  {
-   "id": "person",
-   "file": "pin/Person_Pin.svg"
-  },
-  {
-   "id": "misc",
-   "file": "pin/PIN_Pin.svg"
-  },
-  {
-   "id": "shopping",
-   "file": "pin/Shopping_Pin.svg"
-  },
-  {
-   "id": "sports_leisure",
-   "file": "pin/Sports_Pin.svg"
-  },
-  {
-   "id": "tourism",
-   "file": "pin/TouristInfo_Pin.svg"
-  },
-  {
-   "id": "transport",
-   "file": "pin/Transport_Pin.svg"
-  },
-  {
-   "file": "pin/EnterBuilding_Icon_108.svg",
-   "id": "indoor_map",
    "icon-size": 36,
+   "id": "indoor_map",
+   "file": "pin/EnterBuilding_Icon_108.svg",
    "cell-size": 40
   },
   {
-   "id": "disabled_access",
-   "file": "pin/Indoor_Accessible.svg"
+   "outline-color": "#51614C",
+   "shadow-color": "rgba(0, 0, 0, 0)",
+   "file": "pin/park.svg",
+   "color": "#DFFAD2",
+   "background": "none",
+   "id": "park_outlined"
   },
   {
-   "id": "toilets",
-   "file": "pin/Indoor_Bathroom.svg"
+   "outline-color": "#4C625D",
+   "shadow-color": "rgba(0, 0, 0, 0)",
+   "file": "pin/airport.svg",
+   "color": "#D2FAF6",
+   "background": "none",
+   "id": "airport_outlined"
   },
   {
-   "id": "defibrillator",
-   "file": "pin/Indoor_Defibrillator.svg"
+   "outline-color": "#51614C",
+   "shadow-color": "rgba(0, 0, 0, 0)",
+   "file": "pin/golf.svg",
+   "color": "#DFFAD2",
+   "background": "none",
+   "id": "golf_outlined"
   },
   {
-   "id": "elevator",
-   "file": "pin/Indoor_Elevator.svg"
+   "id": "accessible",
+   "file": "pin/accessible.svg"
   },
   {
-   "id": "stairs",
-   "file": "pin/Indoor_Stairs.svg"
+   "id": "accommodation",
+   "file": "pin/accommodation.svg"
   },
   {
-   "id": "escalator",
-   "file": "pin/IndoorEscalator.svg"
+   "id": "alert",
+   "file": "pin/alert.svg"
   },
   {
-   "id": "printer",
-   "file": "pin/Indoors_Printer.svg"
+   "id": "art",
+   "file": "pin/art.svg"
   },
   {
-   "id": "reception",
-   "file": "pin/Indoors_Reception.svg"
+   "id": "atm",
+   "file": "pin/atm.svg"
   },
   {
-   "id": "stationery",
-   "file": "pin/Indoors_Stationery.svg"
+   "id": "badge_reader",
+   "file": "pin/badge_reader.svg"
   },
   {
-   "id": "fire",
-   "file": "pin/Fire.svg"
+   "id": "bank",
+   "file": "pin/bank.svg"
   },
   {
-   "id": "emergency_exit",
-   "file": "pin/EmergencyExit.svg"
+   "id": "bathroom",
+   "file": "pin/bathroom.svg"
   },
   {
-   "id": "department",
-   "file": "pin/S_Indoor_Department.svg"
+   "id": "bed_breakfast",
+   "file": "pin/bed_breakfast.svg"
   },
   {
-   "id": "meeting_room_available",
-   "file": "pin/S_Indoor_MeetingRoomAvailable.svg"
+   "id": "beer",
+   "file": "pin/beer.svg"
   },
   {
-   "id": "meeting_room_available_soon",
-   "file": "pin/S_Indoor_MeetingRoomAvailableSoon.svg"
+   "id": "bin",
+   "file": "pin/bin.svg"
   },
   {
-   "id": "meeting_room",
-   "file": "pin/S_Indoor_MeetingRoomGeneric.svg"
+   "id": "bin_full",
+   "file": "pin/bin_full.svg"
   },
   {
-   "id": "meeting_room_unavailable",
-   "file": "pin/S_Indoor_MeetingRoomUnavailable.svg"
+   "id": "blue_meter",
+   "file": "pin/blue_meter.svg"
   },
   {
-   "id": "working_group",
-   "file": "pin/S_Indoor_WorkingGroup.svg"
+   "id": "border_crossing ",
+   "file": "pin/border_crossing .svg"
+  },
+  {
+   "id": "burgers",
+   "file": "pin/burgers.svg"
+  },
+  {
+   "id": "bus",
+   "file": "pin/bus.svg"
+  },
+  {
+   "id": "business",
+   "file": "pin/business.svg"
+  },
+  {
+   "id": "camping",
+   "file": "pin/camping.svg"
   },
   {
    "id": "casino",
-   "file": "pin/Casino_Gambling_Pin.svg"
-  },
-  {
-   "id": "historic_monument",
-   "file": "pin/Castle_Historic_Monument_Pin.svg"
+   "file": "pin/casino.svg"
   },
   {
    "id": "charge_point",
-   "file": "pin/Charge_Point_Pin.svg"
+   "file": "pin/charge_point.svg"
   },
   {
    "id": "childcare",
-   "file": "pin/Childcare_Pin.svg"
+   "file": "pin/childcare.svg"
+  },
+  {
+   "id": "chinese_thai",
+   "file": "pin/chinese_thai.svg"
   },
   {
    "id": "christianity",
-   "file": "pin/Christianity_Pin.svg"
+   "file": "pin/christianity.svg"
+  },
+  {
+   "id": "church",
+   "file": "pin/church.svg"
   },
   {
    "id": "cinema",
-   "file": "pin/Cinema_Pin.svg"
+   "file": "pin/cinema.svg"
+  },
+  {
+   "id": "click_and_collect",
+   "file": "pin/click_and_collect.svg"
+  },
+  {
+   "id": "co2_detector",
+   "file": "pin/co2_detector.svg"
   },
   {
    "id": "cocktail",
-   "file": "pin/Cocktail_Pin.svg"
+   "file": "pin/cocktail.svg"
   },
   {
    "id": "coffee",
-   "file": "pin/Coffee_Pin.svg"
+   "file": "pin/coffee.svg"
+  },
+  {
+   "id": "collaboration_space",
+   "file": "pin/collaboration_space.svg"
   },
   {
    "id": "cycling",
-   "file": "pin/Cycling_Pin.svg"
+   "file": "pin/cycling.svg"
+  },
+  {
+   "id": "defibrillator",
+   "file": "pin/defibrillator.svg"
   },
   {
    "id": "dentist",
-   "file": "pin/Dentist_Pin.svg"
+   "file": "pin/dentist.svg"
+  },
+  {
+   "id": "department",
+   "file": "pin/department.svg"
+  },
+  {
+   "id": "digital_sign",
+   "file": "pin/digital_sign.svg"
+  },
+  {
+   "id": "dining_room",
+   "file": "pin/dining_room.svg"
   },
   {
    "id": "donuts",
-   "file": "pin/Donuts_Pin.svg"
+   "file": "pin/donuts.svg"
+  },
+  {
+   "id": "driveway",
+   "file": "pin/driveway.svg"
   },
   {
    "id": "education",
-   "file": "pin/Education_Pin.svg"
+   "file": "pin/education.svg"
+  },
+  {
+   "id": "electrical_meter",
+   "file": "pin/electrical_meter.svg"
+  },
+  {
+   "id": "elevator",
+   "file": "pin/elevator.svg"
+  },
+  {
+   "id": "emergency_exit",
+   "file": "pin/emergency_exit.svg"
+  },
+  {
+   "id": "entertainment",
+   "file": "pin/entertainment.svg"
+  },
+  {
+   "id": "escalator",
+   "file": "pin/escalator.svg"
+  },
+  {
+   "id": "events",
+   "file": "pin/events.svg"
   },
   {
    "id": "facebook",
-   "file": "pin/facebook_pin.svg"
+   "file": "pin/facebook.svg"
   },
   {
    "id": "farm",
-   "file": "pin/Farm_Pin.svg"
+   "file": "pin/farm.svg"
+  },
+  {
+   "id": "fashion",
+   "file": "pin/fashion.svg"
+  },
+  {
+   "id": "fashion_kids",
+   "file": "pin/fashion_kids.svg"
+  },
+  {
+   "id": "fashion_men",
+   "file": "pin/fashion_men.svg"
+  },
+  {
+   "id": "fashion_women",
+   "file": "pin/fashion_women.svg"
   },
   {
    "id": "ferry",
-   "file": "pin/Ferry_Pin.svg"
+   "file": "pin/ferry.svg"
+  },
+  {
+   "id": "fire",
+   "file": "pin/fire.svg"
+  },
+  {
+   "id": "fireplace",
+   "file": "pin/fireplace.svg"
   },
   {
    "id": "fire_extinguisher",
-   "file": "pin/Fire_Extinguisher_Pin.svg"
+   "file": "pin/fire_extinguisher.svg"
   },
   {
    "id": "first_aid",
-   "file": "pin/First_Aid_Pin.svg"
+   "file": "pin/first_aid.svg"
   },
   {
    "id": "fishing",
-   "file": "pin/Fishing_Pin.svg"
+   "file": "pin/fishing.svg"
   },
   {
    "id": "florist",
-   "file": "pin/Florist_Pin.svg"
+   "file": "pin/florist.svg"
   },
   {
    "id": "food_drink",
-   "file": "pin/FoodAndDrink_Pin.svg"
+   "file": "pin/food_drink.svg"
   },
   {
    "id": "football",
-   "file": "pin/Football_Pin.svg"
-  },
-  {
-   "id": "petrol_station",
-   "file": "pin/Fuel_Petrol_Station_Gas_Station_Pin.svg"
-  },
-  {
-   "id": "golf",
-   "file": "pin/Golf_Pin.svg"
-  },
-  {
-   "id": "google_plus",
-   "file": "pin/google_plus_pin.svg"
-  },
-  {
-   "id": "groceries",
-   "file": "pin/Groceries_Pin.svg"
-  },
-  {
-   "id": "hospital",
-   "file": "pin/Hospital_Pin.svg"
-  },
-  {
-   "id": "hostel",
-   "file": "pin/Hostel_Pin.svg"
-  },
-  {
-   "id": "hotel",
-   "file": "pin/Hotel_Pin.svg"
-  },
-  {
-   "id": "islam",
-   "file": "pin/Islam_Pin.svg"
-  },
-  {
-   "id": "judaism",
-   "file": "pin/Judaism_Pin.svg"
-  },
-  {
-   "id": "library",
-   "file": "pin/Library_Pin.svg"
-  },
-  {
-   "id": "lifeguard",
-   "file": "pin/Lifeguard_Pin.svg"
-  },
-  {
-   "id": "limo",
-   "file": "pin/Limo_Pin.svg"
-  },
-  {
-   "id": "link",
-   "file": "pin/link_pin.svg"
-  },
-  {
-   "id": "lodge",
-   "file": "pin/Lodge_Pin.svg"
-  },
-  {
-   "id": "music",
-   "file": "pin/Music_Pin.svg"
-  },
-  {
-   "id": "office",
-   "file": "pin/Office_Pin.svg"
-  },
-  {
-   "id": "parking",
-   "file": "pin/Parking_Pin.svg"
-  },
-  {
-   "id": "park",
-   "file": "pin/Park_Pin.svg"
-  },
-  {
-   "id": "payphone",
-   "file": "pin/payphone_Pin.svg"
-  },
-  {
-   "id": "pharmacy",
-   "file": "pin/Pharmacy_Pin.svg"
-  },
-  {
-   "id": "picasa",
-   "file": "pin/picasa_pin.svg"
-  },
-  {
-   "id": "pizza",
-   "file": "pin/Pizza_Pin.svg"
-  },
-  {
-   "id": "playing_field",
-   "file": "pin/Playing_Field_Pin.svg"
-  },
-  {
-   "id": "police",
-   "file": "pin/Police_Pin.svg"
-  },
-  {
-   "id": "post_office",
-   "file": "pin/Post_Office_Post_Box_Pin.svg"
-  },
-  {
-   "id": "race_track",
-   "file": "pin/Race_Track_Pin.svg"
-  },
-  {
-   "id": "place_of_worship",
-   "file": "pin/Religion_Place_of_Worship_Pin.svg"
-  },
-  {
-   "id": "sailing",
-   "file": "pin/Sailing_Pin.svg"
-  },
-  {
-   "id": "shooting",
-   "file": "pin/Shooting_Pin.svg"
-  },
-  {
-   "id": "skiing",
-   "file": "pin/Skiing_Pin.svg"
-  },
-  {
-   "id": "spa",
-   "file": "pin/Spa_Pin.svg"
-  },
-  {
-   "id": "sports_field",
-   "file": "pin/Sports_Field_Pin.svg"
-  },
-  {
-   "id": "subway",
-   "file": "pin/Subway_Underground_Pin.svg"
-  },
-  {
-   "id": "taxi",
-   "file": "pin/Taxi_Pin.svg"
-  },
-  {
-   "id": "town_hall",
-   "file": "pin/Town_Hall_Pin.svg"
-  },
-  {
-   "id": "train",
-   "file": "pin/Train_Pin.svg"
-  },
-  {
-   "id": "tram",
-   "file": "pin/Tram_Pin.svg"
-  },
-  {
-   "id": "twitter",
-   "file": "pin/twitter_pin.svg"
-  },
-  {
-   "id": "vet",
-   "file": "pin/Vet_Pin.svg"
-  },
-  {
-   "id": "vimeo",
-   "file": "pin/vimeo_pin.svg"
-  },
-  {
-   "id": "wikipedia",
-   "file": "pin/wikipedia_pin.svg"
-  },
-  {
-   "id": "wine",
-   "file": "pin/Wine_Pin.svg"
-  },
-  {
-   "id": "youtube",
-   "file": "pin/youtube_pin.svg"
-  },
-  {
-   "id": "zoo",
-   "file": "pin/Zoo_Pin.svg"
+   "file": "pin/football.svg"
   },
   {
    "id": "forest",
-   "file": "pin/Forest_pin.svg"
+   "file": "pin/forest.svg"
+  },
+  {
+   "id": "fridge",
+   "file": "pin/fridge.svg"
+  },
+  {
+   "id": "gallery",
+   "file": "pin/gallery.svg"
+  },
+  {
+   "id": "gas_meter",
+   "file": "pin/gas_meter.svg"
+  },
+  {
+   "id": "general",
+   "file": "pin/general.svg"
+  },
+  {
+   "id": "google+",
+   "file": "pin/google+.svg"
+  },
+  {
+   "id": "groceries",
+   "file": "pin/groceries.svg"
+  },
+  {
+   "id": "health",
+   "file": "pin/health.svg"
+  },
+  {
+   "id": "historic_monument",
+   "file": "pin/historic_monument.svg"
+  },
+  {
+   "id": "home",
+   "file": "pin/home.svg"
+  },
+  {
+   "id": "homeware",
+   "file": "pin/homeware.svg"
+  },
+  {
+   "id": "home_apartment",
+   "file": "pin/home_apartment.svg"
+  },
+  {
+   "id": "hospital",
+   "file": "pin/hospital.svg"
+  },
+  {
+   "id": "hostel",
+   "file": "pin/hostel.svg"
+  },
+  {
+   "id": "hotel",
+   "file": "pin/hotel.svg"
+  },
+  {
+   "id": "hvac_unit",
+   "file": "pin/hvac_unit.svg"
+  },
+  {
+   "id": "indian",
+   "file": "pin/indian.svg"
+  },
+  {
+   "id": "islam",
+   "file": "pin/islam.svg"
+  },
+  {
+   "id": "judaism",
+   "file": "pin/judaism.svg"
+  },
+  {
+   "id": "kitchen",
+   "file": "pin/kitchen.svg"
   },
   {
    "id": "lake",
-   "file": "pin/Lake_pin.svg"
+   "file": "pin/lake.svg"
   },
   {
-   "id": "mountain",
-   "file": "pin/Mountain_pin.svg"
+   "id": "library",
+   "file": "pin/library.svg"
   },
   {
-   "id": "river",
-   "file": "pin/River_pin.svg"
+   "id": "lifeguard",
+   "file": "pin/lifeguard.svg"
   },
   {
-   "id": "female",
-   "file": "pin/ToiletLadies_Pin.svg"
+   "id": "limo",
+   "file": "pin/limo.svg"
   },
   {
-   "id": "male",
-   "file": "pin/ToiletMen_Pin.svg"
+   "id": "link",
+   "file": "pin/link.svg"
   },
   {
-   "id": "lamppost",
-   "file": "pin/Lamppost_Pin.svg"
+   "id": "lodge",
+   "file": "pin/lodge.svg"
+  },
+  {
+   "id": "meeting_room",
+   "file": "pin/meeting_room.svg"
+  },
+  {
+   "id": "meeting_room_available",
+   "file": "pin/meeting_room_available.svg"
+  },
+  {
+   "id": "meeting_room_available_soon",
+   "file": "pin/meeting_room_available_soon.svg"
+  },
+  {
+   "id": "meeting_room_unavailable",
+   "file": "pin/meeting_room_unavailable.svg"
+  },
+  {
+   "id": "message",
+   "file": "pin/message.svg"
   },
   {
    "id": "meter",
-   "file": "pin/Meter_Pin.svg"
+   "file": "pin/meter.svg"
   },
   {
-   "id": "trash_empty",
-   "file": "pin/Trash_Pin.svg"
+   "id": "mobile_phone",
+   "file": "pin/mobile_phone.svg"
   },
   {
-   "id": "trash_full",
-   "file": "pin/Trash_Full_Pin.svg"
+   "id": "mountain",
+   "file": "pin/mountain.svg"
   },
   {
-   "id": "park_outlined",
-   "file": "pin/Park_Pin.svg",
-   "background": "none",
-   "outline-color": "#51614C",
-   "color": "#DFFAD2",
-   "shadow-color": "rgba(0, 0, 0, 0)"
+   "id": "music",
+   "file": "pin/music.svg"
   },
   {
-   "id": "airport_outlined",
-   "file": "pin/Airport_Pin.svg",
-   "background": "none",
-   "outline-color": "#4C625D",
-   "color": "#D2FAF6",
-   "shadow-color": "rgba(0, 0, 0, 0)"
+   "id": "my_location",
+   "file": "pin/my_location.svg"
   },
   {
-   "id": "golf_outlined",
-   "file": "pin/Golf_Pin.svg",
-   "background": "none",
-   "outline-color": "#51614C",
-   "color": "#DFFAD2",
-   "shadow-color": "rgba(0, 0, 0, 0)"
+   "id": "night_time",
+   "file": "pin/night_time.svg"
+  },
+  {
+   "id": "observation_point",
+   "file": "pin/observation_point.svg"
+  },
+  {
+   "id": "observatory",
+   "file": "pin/observatory.svg"
+  },
+  {
+   "id": "occupancy_sensor",
+   "file": "pin/occupancy_sensor.svg"
+  },
+  {
+   "id": "offices",
+   "file": "pin/offices.svg"
+  },
+  {
+   "id": "oven",
+   "file": "pin/oven.svg"
+  },
+  {
+   "id": "parking",
+   "file": "pin/parking.svg"
+  },
+  {
+   "id": "payphone",
+   "file": "pin/payphone.svg"
+  },
+  {
+   "id": "person",
+   "file": "pin/person.svg"
+  },
+  {
+   "id": "petrol_station",
+   "file": "pin/petrol_station.svg"
+  },
+  {
+   "id": "pharmacy",
+   "file": "pin/pharmacy.svg"
+  },
+  {
+   "id": "photo",
+   "file": "pin/photo.svg"
+  },
+  {
+   "id": "picasa",
+   "file": "pin/picasa.svg"
+  },
+  {
+   "id": "pin",
+   "file": "pin/pin.svg"
+  },
+  {
+   "id": "pizza",
+   "file": "pin/pizza.svg"
+  },
+  {
+   "id": "place_of_worship",
+   "file": "pin/place_of_worship.svg"
+  },
+  {
+   "id": "playing_field",
+   "file": "pin/playing_field.svg"
+  },
+  {
+   "id": "police",
+   "file": "pin/police.svg"
+  },
+  {
+   "id": "positioning_beacon",
+   "file": "pin/positioning_beacon.svg"
+  },
+  {
+   "id": "post_office",
+   "file": "pin/post_office.svg"
+  },
+  {
+   "id": "printer",
+   "file": "pin/printer.svg"
+  },
+  {
+   "id": "race_track",
+   "file": "pin/race_track.svg"
+  },
+  {
+   "id": "reception",
+   "file": "pin/reception.svg"
+  },
+  {
+   "id": "remote_control",
+   "file": "pin/remote_control.svg"
+  },
+  {
+   "id": "river",
+   "file": "pin/river.svg"
+  },
+  {
+   "id": "sailing",
+   "file": "pin/sailing.svg"
+  },
+  {
+   "id": "seafood",
+   "file": "pin/seafood.svg"
+  },
+  {
+   "id": "security_alarm",
+   "file": "pin/security_alarm.svg"
+  },
+  {
+   "id": "security_camera",
+   "file": "pin/security_camera.svg"
+  },
+  {
+   "id": "shooting",
+   "file": "pin/shooting.svg"
+  },
+  {
+   "id": "shopping",
+   "file": "pin/shopping.svg"
+  },
+  {
+   "id": "skiing",
+   "file": "pin/skiing.svg"
+  },
+  {
+   "id": "smart_post",
+   "file": "pin/smart_post.svg"
+  },
+  {
+   "id": "smoke_detector",
+   "file": "pin/smoke_detector.svg"
+  },
+  {
+   "id": "solar_panels",
+   "file": "pin/solar_panels.svg"
+  },
+  {
+   "id": "spa",
+   "file": "pin/spa.svg"
+  },
+  {
+   "id": "sports",
+   "file": "pin/sports.svg"
+  },
+  {
+   "id": "sports_field",
+   "file": "pin/sports_field.svg"
+  },
+  {
+   "id": "stairs",
+   "file": "pin/stairs.svg"
+  },
+  {
+   "id": "star",
+   "file": "pin/star.svg"
+  },
+  {
+   "id": "stationery",
+   "file": "pin/stationery.svg"
+  },
+  {
+   "id": "steak",
+   "file": "pin/steak.svg"
+  },
+  {
+   "id": "subway",
+   "file": "pin/subway.svg"
+  },
+  {
+   "id": "sushi",
+   "file": "pin/sushi.svg"
+  },
+  {
+   "id": "taxi",
+   "file": "pin/taxi.svg"
+  },
+  {
+   "id": "technology",
+   "file": "pin/technology.svg"
+  },
+  {
+   "id": "telephone_booth",
+   "file": "pin/telephone_booth.svg"
+  },
+  {
+   "id": "temperature_sensor",
+   "file": "pin/temperature_sensor.svg"
+  },
+  {
+   "id": "thermostat",
+   "file": "pin/thermostat.svg"
+  },
+  {
+   "id": "ticket",
+   "file": "pin/ticket.svg"
+  },
+  {
+   "id": "toilet_ladies",
+   "file": "pin/toilet_ladies.svg"
+  },
+  {
+   "id": "toilet_men",
+   "file": "pin/toilet_men.svg"
+  },
+  {
+   "id": "tourist_info",
+   "file": "pin/tourist_info.svg"
+  },
+  {
+   "id": "town_hall",
+   "file": "pin/town_hall.svg"
+  },
+  {
+   "id": "traffic_counter",
+   "file": "pin/traffic_counter.svg"
+  },
+  {
+   "id": "train",
+   "file": "pin/train.svg"
+  },
+  {
+   "id": "tram",
+   "file": "pin/tram.svg"
+  },
+  {
+   "id": "twitter",
+   "file": "pin/twitter.svg"
+  },
+  {
+   "id": "uber",
+   "file": "pin/uber.svg"
+  },
+  {
+   "id": "vegan",
+   "file": "pin/vegan.svg"
+  },
+  {
+   "id": "vegetarian",
+   "file": "pin/vegetarian.svg"
+  },
+  {
+   "id": "vet",
+   "file": "pin/vet.svg"
+  },
+  {
+   "id": "video",
+   "file": "pin/video.svg"
+  },
+  {
+   "id": "video_conference_telepresence",
+   "file": "pin/video_conference_telepresence.svg"
+  },
+  {
+   "id": "vimeo",
+   "file": "pin/vimeo.svg"
+  },
+  {
+   "id": "virtual_tour",
+   "file": "pin/virtual_tour.svg"
+  },
+  {
+   "id": "vr_experience",
+   "file": "pin/vr_experience.svg"
+  },
+  {
+   "id": "warning",
+   "file": "pin/warning.svg"
+  },
+  {
+   "id": "washing_machine",
+   "file": "pin/washing_machine.svg"
+  },
+  {
+   "id": "water_meter",
+   "file": "pin/water_meter.svg"
+  },
+  {
+   "id": "wikipedia",
+   "file": "pin/wikipedia.svg"
+  },
+  {
+   "id": "wind_turbine",
+   "file": "pin/wind_turbine.svg"
+  },
+  {
+   "id": "wine",
+   "file": "pin/wine.svg"
+  },
+  {
+   "id": "wi_fi_point",
+   "file": "pin/wi_fi_point.svg"
+  },
+  {
+   "id": "working_group",
+   "file": "pin/working_group.svg"
+  },
+  {
+   "id": "youtube",
+   "file": "pin/youtube.svg"
+  },
+  {
+   "id": "zoo",
+   "file": "pin/zoo.svg"
   }
- ]
+ ],
+ "sheet-size": 420,
+ "mode": "sheet",
+ "icon-size": 24,
+ "cell-size": 28
 }

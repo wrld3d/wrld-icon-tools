@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>pharmacy</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="108" height="108" style="fill: #fff;opacity: 0"/>
+        <path d="M84,84.86,75,27H68.94c-.65-8.07-6.54-15-16.44-15S36.71,18.93,36.06,27H30L21,84.86A4.5,4.5,0,0,0,25.5,90h54A4.5,4.5,0,0,0,84,84.86ZM52.5,18c6.75,0,9.83,4.48,10.39,9H42.11C42.67,22.48,45.75,18,52.5,18ZM66,63H57v9H48V63H39V54h9V45h9v9h9Z" style="fill: #2e2ee6"/>
+      </g>
+    </g>
+  </g>
+</svg>

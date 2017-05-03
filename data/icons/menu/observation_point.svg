@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>observation_point</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <circle cx="36" cy="54" r="9" style="fill: #0081a1"/>
+        <polygon points="90 58.5 54 56.25 54 51.75 90 49.5 90 58.5" style="fill: #0081a1"/>
+        <polygon points="79.34 31.93 51.75 45.26 49.5 41.36 74.84 24.13 79.34 31.93" style="fill: #0081a1"/>
+        <polygon points="56.54 19.47 44.4 36 40.5 33.75 48.75 14.97 56.54 19.47" style="fill: #0081a1"/>
+        <polygon points="56.54 88.53 44.4 72 40.5 74.25 48.75 93.03 56.54 88.53" style="fill: #0081a1"/>
+        <polygon points="74.73 84.06 49.5 66.9 51.75 63 79.23 76.27 74.73 84.06" style="fill: #0081a1"/>
+      </g>
+    </g>
+  </g>
+</svg>

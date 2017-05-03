@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>general</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="72" height="72" style="fill: #fff;opacity: 0"/>
+        <path d="M39,7.5C38.59,6.34,37.3,6,36,6s-2.59.34-3,1.5V15H24v9h9v3H24l-6,4.5L24,36h9V57H30a3,3,0,0,0-3,3v3H45V60a3,3,0,0,0-3-3H39V36h9V27H39V24h9l6-4.5L48,15H39Z" style="fill: #0081a1"/>
+      </g>
+    </g>
+  </g>
+</svg>

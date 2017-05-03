@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>football</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <circle cx="34.5" cy="10.5" r="4.5" style="fill: #a714cc"/>
+        <circle cx="28.13" cy="61.13" r="4.88" style="fill: #a714cc"/>
+        <polygon points="51.75 14.25 50.25 12 44.25 15.75 30 18.75 21.75 24 18 33 21 33 26 26 30 24 33 33 27 44 28.5 45 27.75 47.25 15 47.25 18 51 30 51 32.95 47.4 34 48 37 44 37 50 39 50 39.75 66 43.5 66 43.5 50 45 50 45 34 42 22 45.75 20.25 51.75 14.25" style="fill: #a714cc"/>
+      </g>
+    </g>
+  </g>
+</svg>

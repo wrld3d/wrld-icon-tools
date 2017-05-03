@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>groceries</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <path d="M60,30,48,12H42L54,30H18L30,12H24L12,30H9v6h3l9.15,24H51l9-24h3V30ZM27,54H24l-3-9V36h6Zm12,0H33V36h6Zm12-9-3,9H45V36h6Z" style="fill: #2e2ee6"/>
+      </g>
+    </g>
+  </g>
+</svg>
