@@ -11,32 +11,32 @@
    "cell-size": 40
   },
   {
-   "id": "disabled_access",
-   "file": "pin/Indoor_Accessible.svg"
+   "id": "accessible",
+   "file": "pin/accessible.svg"
   },
   {
    "id": "toilets",
-   "file": "pin/Indoor_Bathroom.svg"
+   "file": "pin/bathroom.svg"
   },
   {
    "id": "elevator",
-   "file": "pin/Indoor_Elevator.svg"
+   "file": "pin/elevator.svg"
   },
   {
    "id": "stairs",
-   "file": "pin/Indoor_Stairs.svg"
+   "file": "pin/stairs.svg"
   },
   {
    "id": "escalator",
-   "file": "pin/IndoorEscalator.svg"
+   "file": "pin/escalator.svg"
   },
   {
    "id": "misc",
-   "file": "pin/PIN_Pin.svg"
+   "file": "pin/pin.svg"
   },
   {
    "id": "park_outlined",
-   "file": "pin/Park_Pin.svg",
+   "file": "pin/park.svg",
    "background": "none",
    "outline-color": "#51614C",
    "color": "#DFFAD2",
@@ -44,7 +44,7 @@
   },
   {
    "id": "airport_outlined",
-   "file": "pin/Airport_Pin.svg",
+   "file": "pin/airport.svg",
    "background": "none",
    "outline-color": "#4C625D",
    "color": "#D2FAF6",
@@ -52,7 +52,7 @@
   },
   {
    "id": "golf_outlined",
-   "file": "pin/Golf_Pin.svg",
+   "file": "pin/golf.svg",
    "background": "none",
    "outline-color": "#51614C",
    "color": "#DFFAD2",

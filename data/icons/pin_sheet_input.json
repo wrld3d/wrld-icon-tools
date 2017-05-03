@@ -39,6 +39,10 @@
    "id": "golf_outlined"
   },
   {
+   "id": "misc",
+   "file": "pin/pin.svg"
+  },
+  {
    "id": "accessible",
    "file": "pin/accessible.svg"
   },

@@ -93,6 +93,7 @@
     { "tag": "meeting_room_available_soon", "readable_tag": "Meeting room (Available soon)", "icon_key": "meeting_room_available_soon" },
     { "tag": "meeting_room_unavailable", "readable_tag": "Meeting room (Unavailable)", "icon_key": "meeting_room_unavailable" },
     { "tag": "message", "readable_tag": "Message", "icon_key": "message" },
+    { "tag": "misc", "readable_tag": "Miscellaneous", "icon_key": "pin" },
     { "tag": "mobile_phone", "readable_tag": "Mobile phone", "icon_key": "mobile_phone" },
     { "tag": "mountain", "readable_tag": "Mountain", "icon_key": "mountain" },
     { "tag": "music", "readable_tag": "Music", "icon_key": "music" },
@@ -180,5 +181,5 @@
     { "tag": "zoo", "readable_tag": "Zoo", "icon_key": "zoo" }
   ],
   "default_readable_tag": "Unknown",
-  "default_icon_key": "general"
+  "default_icon_key": "pin"
 }

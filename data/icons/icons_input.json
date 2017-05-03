@@ -59,6 +59,10 @@
    "file": "menu/Weather_Snow.svg"
   },
   {
+   "id": "misc",
+   "file": "pin/pin.svg"
+  },
+  {
    "id": "accessible",
    "file": "menu/accessible.svg"
   },
