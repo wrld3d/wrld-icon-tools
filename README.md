@@ -23,29 +23,29 @@ If you have any questions, bug reports, or feature requests, feel free to submit
 
 ## Getting started
 
-####1. Clone [this repo](https://github.com/eegeo/eegeo-icon-tools)
+#### 1. Clone [this repo](https://github.com/eegeo/eegeo-icon-tools)
 ```
 git clone https://github.com/eegeo/eegeo-icon-tools.git
 ```
 
-####2. (Optional) Create a Python virtual environment to run the tools in.
+#### 2. (Optional) Create a Python virtual environment to run the tools in.
 ```
 virtualenv IconToolsVenv
 source IconToolsVenv/bin/activate
 ```
-####3. Install Inkscape
+#### 3. Install Inkscape
 
 Download and installation instructions for various platforms are here: https://inkscape.org/en/download/
 
 Here at eeGeo we install using [MacPorts](https://www.macports.org/) on Mac OS-X and [Choclatey](https://chocolatey.org/) on Windows.
 
-####4. Install python dependencies.
+#### 4. Install python dependencies.
 
 ```
 pip install -r pip_requirements
 ```
 
-####5. Build the icons for inclusion in mobile apps.
+#### 5. Build the icons for inclusion in mobile apps.
 
 This tool prepares icon sheets for by the eeGeo SDK on mobile devices. See the [Eegeo Example App](https://github.com/eegeo/eegeo-example-app) for an example of a mobile app that uses the the eeGeo SDK.
 
@@ -55,7 +55,7 @@ sh build_icons_for_example_app.sh
 
 This will generate the bitmap icons at various resolutions along with icon sheets. You can find them in the output/ directory.
 
-####6. Package up the icons for inclusion in mobile builds.
+#### 6. Package up the icons for inclusion in mobile builds.
 
 ```
 sh package_icons.sh
@@ -67,7 +67,7 @@ Once this script has completed you will find the following directories under out
 * ios/ - Contains assets to copy into the Resources directory of an Apple iOS App.
 * windows/ - Contains assets to copy into the Resources directory of a Windows App.
 
-####7. Building icons for inclusions in a web app.
+#### 7. Building icons for inclusions in a web app.
 
 This tool prepares icons for use by the eeGeo SDK in browser based apps. You can find out more about building embeddable 3D mapping apps using Javascript and Leaflet on our website [here](https://docs.eegeo.com/eegeo.js/latest/docs/api/)
 
