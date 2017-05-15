@@ -1,10 +1,10 @@
-<a href="http://www.eegeo.com/">
-    <img src="http://cdn2.eegeo.com/wp-content/uploads/2016/03/eegeo_logo_quite_big.png" alt="eeGeo Logo" title="eegeo" align="right" height="80px" />
+<a href="http://www.wrld3d.com/">
+    <img src="http://cdn2.eegeo.com/wp-content/uploads/2017/04/WRLD_Blue.png" align="right" height="80px" />
 </a>
 
-# eeGeo Icon Conversion Tools
+# WRLD Icon Conversion Tools
 
-![eeGeo](http://cdn2.eegeo.com/wp-content/uploads/2016/03/readme-banner.jpg)
+![WRLD](http://cdn2.eegeo.com/wp-content/uploads/2017/04/screenselection01.png)
 
 * [Support](#support)
 * [Getting Started](#getting-started)
@@ -13,19 +13,20 @@
 
 ## Summary
 
-This repository contains the code for preparing icons for use with the [eeGeo SDK](http://www.eegeo.com/), a cross-platform, OpenGL-based library for displaying beautiful, engaging 3D maps.
+This repository contains the code for preparing icons for use with the [WRLD SDK](http://www.eegeo.com/), a cross-platform, OpenGL-based library for displaying beautiful, engaging 3D maps.
 
 The code in this repository takes a set of vector icons in SVG format, converts them into bitmap images at resolutions suitable for a wide range of mobile devices and combines into "sheets" like for use by the eeGeo SDK.
 
 ## Support
 
-If you have any questions, bug reports, or feature requests, feel free to submit to the [issue tracker](https://github.com/eegeo/eegeo-icon-tools/issues) for this repository.
+If you have any questions, bug reports, or feature requests, feel free to submit to the [issue tracker](https://github.com/wrld3d/wrld-icon-tools/issues) for this repository.
 
 ## Getting started
 
-#### 1. Clone [this repo](https://github.com/eegeo/eegeo-icon-tools)
+####1. Clone [this repo](https://github.com/wrld3d/wrld-icon-tools)
+
 ```
-git clone https://github.com/eegeo/eegeo-icon-tools.git
+git clone https://github.com/wrld3d/wrld-icon-tools.git
 ```
 
 #### 2. (Optional) Create a Python virtual environment to run the tools in.
@@ -37,7 +38,7 @@ source IconToolsVenv/bin/activate
 
 Download and installation instructions for various platforms are here: https://inkscape.org/en/download/
 
-Here at eeGeo we install using [MacPorts](https://www.macports.org/) on Mac OS-X and [Choclatey](https://chocolatey.org/) on Windows.
+Here at WRLD we install using [MacPorts](https://www.macports.org/) on Mac OS-X and [Choclatey](https://chocolatey.org/) on Windows.
 
 #### 4. Install python dependencies.
 
@@ -47,7 +48,7 @@ pip install -r pip_requirements
 
 #### 5. Build the icons for inclusion in mobile apps.
 
-This tool prepares icon sheets for by the eeGeo SDK on mobile devices. See the [Eegeo Example App](https://github.com/eegeo/eegeo-example-app) for an example of a mobile app that uses the the eeGeo SDK.
+This tool prepares icon sheets for by the WRLD SDK on mobile devices. See the [WRLD Example App](https://github.com/wrld3d/wrld-example-app) for an example of a mobile app that uses the the WRLD SDK.
 
 ```
 sh build_icons_for_example_app.sh
@@ -60,7 +61,7 @@ This will generate the bitmap icons at various resolutions along with icon sheet
 ```
 sh package_icons.sh
 ```
-This packages up the icons for inclusion in a mobile app such as our [eeGeo Example App](https://github.com/eegeo/eegeo-example-app)
+This packages up the icons for inclusion in a mobile app such as our [WRLD Example App](https://github.com/wrld3d/wrld-example-app)
 
 Once this script has completed you will find the following directories under output/
 * android/ - Contains assets/ and res/ for copying into Android apps.
@@ -69,7 +70,7 @@ Once this script has completed you will find the following directories under out
 
 #### 7. Building icons for inclusions in a web app.
 
-This tool prepares icons for use by the eeGeo SDK in browser based apps. You can find out more about building embeddable 3D mapping apps using Javascript and Leaflet on our website [here](https://docs.eegeo.com/eegeo.js/latest/docs/api/)
+This tool prepares icons for use by the WRLD SDK in browser based apps. You can find out more about building embeddable 3D mapping apps using Javascript and Leaflet on our website [here](https://docs.wrld3d.com/wrld.js/latest/docs/api/)
 
 ```
 sh build_icons_for_webgl.sh
@@ -89,4 +90,4 @@ launchctl load -w /Library/LaunchAgents/org.freedesktop.dbus-session.plist
 
 ## License
 
-The eeGeo Icon Tools are  released under the Simplified BSD License. See the [LICENSE.md](https://github.com/eegeo/eegeo-icon-tools/blob/master/LICENSE) file for details.
+The WRLD Icon Tools are  released under the Simplified BSD License. See the [LICENSE.md](https://github.com/wrld3d/wrld-icon-tools/blob/master/LICENSE) file for details.
