@@ -23,13 +23,16 @@ If you have any questions, bug reports, or feature requests, feel free to submit
 
 ## Getting started
 
-####1. Clone [this repo](https://github.com/wrld3d/wrld-icon-tools)
+#### 1. Clone [this repo](https://github.com/wrld3d/wrld-icon-tools)
 
 ```
 git clone https://github.com/wrld3d/wrld-icon-tools.git
 ```
 
 #### 2. (Optional) Create a Python virtual environment to run the tools in.
+
+Install `virtualenv` if required following [their instructions](https://virtualenv.pypa.io/en/stable/installation/), and then ensure you are in the top of the cloned repository.
+
 ```
 virtualenv IconToolsVenv
 source IconToolsVenv/bin/activate
@@ -39,6 +42,8 @@ source IconToolsVenv/bin/activate
 Download and installation instructions for various platforms are here: https://inkscape.org/en/download/
 
 Here at WRLD we install using [MacPorts](https://www.macports.org/) on Mac OS-X and [Choclatey](https://chocolatey.org/) on Windows.
+
+You may need to [add a path](https://mijingo.com/blog/adding-to-your-system-path) so your terminal has access to Inkscape commands.
 
 #### 4. Install python dependencies.
 
@@ -61,6 +66,7 @@ This will generate the bitmap icons at various resolutions along with icon sheet
 ```
 sh package_icons.sh
 ```
+
 This packages up the icons for inclusion in a mobile app such as our [WRLD Example App](https://github.com/wrld3d/wrld-example-app)
 
 Once this script has completed you will find the following directories under output/
