@@ -88,6 +88,18 @@ This tool prepares icons for use by the WRLD SDK in browser based apps. You can 
 sh build_icons_for_webgl.sh
 ```
 
+## Testing
+
+If you wish to create a new WRLD places collection, then a tool has been included to add the contents of `data/search_tags.json` to a new places collection.
+
+```
+sh debug_icons_on_map.sh <DEVTOKEN>
+```
+
+Running the above command with your own developer token will create markers, and if you have successfully added the icons to your device and given the collection and device the same API Token you will see them at (56°27'50.4"N 2°56'03.0"W).
+
+Adjust the values of `ZERO_LAT` and `ZERO_LON` before running `debug_icons_on_map.sh` if you wish the icons to be generated at different coordinates.
+
 ## Troubleshooting
 
 If you can encounter an error similar to this on Mac platforms:
