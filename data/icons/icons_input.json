@@ -8,7 +8,7 @@
   },
   {
    "id": "spring",
-   "file": "menu/Weather Spring.svg"
+   "file": "menu/Weather_Spring.svg"
   },
   {
    "id": "autumn",
@@ -119,8 +119,8 @@
    "file": "menu/blue_meter.svg"
   },
   {
-   "id": "border_crossing ",
-   "file": "menu/border_crossing .svg"
+   "id": "border_crossing",
+   "file": "menu/border_crossing.svg"
   },
   {
    "id": "burgers",
@@ -331,8 +331,8 @@
    "file": "menu/golf.svg"
   },
   {
-   "id": "google +",
-   "file": "menu/google +.svg"
+   "id": "google_plus",
+   "file": "menu/google_plus.svg"
   },
   {
    "id": "groceries",

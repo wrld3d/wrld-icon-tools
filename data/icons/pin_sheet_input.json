@@ -51,6 +51,10 @@
    "file": "pin/accommodation.svg"
   },
   {
+   "id": "airport",
+   "file": "pin/airport.svg"
+  },
+  {
    "id": "alert",
    "file": "pin/alert.svg"
   },
@@ -95,8 +99,8 @@
    "file": "pin/blue_meter.svg"
   },
   {
-   "id": "border_crossing ",
-   "file": "pin/border_crossing .svg"
+   "id": "border_crossing",
+   "file": "pin/border_crossing.svg"
   },
   {
    "id": "burgers",
@@ -303,8 +307,12 @@
    "file": "pin/general.svg"
   },
   {
-   "id": "google+",
-   "file": "pin/google+.svg"
+   "id": "golf",
+   "file": "pin/golf.svg"
+  },
+  {
+   "id": "google_plus",
+   "file": "pin/google_plus.svg"
   },
   {
    "id": "groceries",
@@ -449,6 +457,10 @@
   {
    "id": "oven",
    "file": "pin/oven.svg"
+  },
+  {
+   "id": "park",
+   "file": "pin/park.svg"
   },
   {
    "id": "parking",

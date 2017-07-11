@@ -27,7 +27,7 @@
     { "tag": "church", "readable_tag": "Church", "icon_key": "church" },
     { "tag": "cinema", "readable_tag": "Cinema", "icon_key": "cinema" },
     { "tag": "click_and_collect", "readable_tag": "Click & Collect", "icon_key": "click_and_collect" },
-    { "tag": "co2_detector", "readable_tag": "CO2 detector", "icon_key": "co2_detector" },
+    { "tag": "co_two_detector", "readable_tag": "CO2 detector", "icon_key": "co2_detector" },
     { "tag": "cocktail", "readable_tag": "Cocktails", "icon_key": "cocktail" },
     { "tag": "coffee", "readable_tag": "Coffee", "icon_key": "coffee" },
     { "tag": "collaboration_space", "readable_tag": "Collaboration space", "icon_key": "collaboration_space" },

@@ -70,11 +70,17 @@ sh package_icons.sh
 This packages up the icons for inclusion in a mobile app such as our [WRLD Example App](https://github.com/wrld3d/wrld-example-app)
 
 Once this script has completed you will find the following directories under output/
-* android/ - Contains assets/ and res/ for copying into Android apps.
-* ios/ - Contains assets to copy into the Resources directory of an Apple iOS App.
+* android/ - Contains assets/ and res/ for copying into Android apps, including search_tags.json
+* ios/ - Contains assets to copy into the Resources directory of an Apple iOS App including search_tags.json
 * windows/ - Contains assets to copy into the Resources directory of a Windows App.
 
-#### 7. Building icons for inclusions in a web app.
+#### 7. Building for [wrld-example-app](https://github.com/wrld3d/wrld-example-app)
+
+If building for android move the android folder from `wrld-icon-tools/output/android` to `wrl-example-app/android`. In `wrl-example-app/android/android`, `sh update_android.sh` will copy the new icons into the directory.
+
+If building for iOS move the ios folder from `wrld-icon-tools/output/ios` to `wrl-example-app/ios`. In `wrl-example-app/ios/ios`, `sh update_ios.sh` will copy the new icons into the directory and update 'CMakeLists.txt'.
+
+#### 8. Building icons for inclusions in a web app.
 
 This tool prepares icons for use by the WRLD SDK in browser based apps. You can find out more about building embeddable 3D mapping apps using Javascript and Leaflet on our website [here](https://docs.wrld3d.com/wrld.js/latest/docs/api/)
 
@@ -82,7 +88,7 @@ This tool prepares icons for use by the WRLD SDK in browser based apps. You can 
 sh build_icons_for_webgl.sh
 ```
 
-## Troubleshooting 
+## Troubleshooting
 
 If you can encounter an error similar to this on Mac platforms:
 

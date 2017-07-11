@@ -16,8 +16,12 @@ rm -rf output/js
 
 echo "Packaging assets for iOS"
 mkdir output/ios
-mkdir output/ios/SearchResultOnMap
-python ./src/icons/icon_packer.py -i output/1x,output/2x,output/3x -o output/ios -f ios --json_pin_sheet output/1x/pin_sheet.json --json_icons output/1x/icons.json
+mkdir output/ios/Resources
+mkdir output/ios/Resources/SearchResultOnMap
+python ./src/icons/icon_packer.py -i output/1x,output/2x,output/3x -o output/ios/Resources -f ios --json_pin_sheet output/1x/pin_sheet.json --json_icons output/1x/icons.json
+cp data/search_tags.json output/ios/Resources/search_tags.json
+cp ./update_ios.sh output/ios/update_ios.sh
+
 
 echo "Packaging assets for Android"
 mkdir output/android
@@ -30,6 +34,8 @@ mkdir output/android/res/drawable-hdpi
 mkdir output/android/res/drawable-xhdpi
 mkdir output/android/res/drawable-xxhdpi
 python ./src/icons/icon_packer.py -i output/0_75x,output/1x,output/1_5x,output/2x,output/3x -o output/android -f android --json_pin_sheet output/1x/pin_sheet.json --json_icons output/1x/icons.json
+cp data/search_tags.json output/android/assets/search_tags.json
+cp ./update_android.sh output/android/update_android.sh
 
 echo "Packaging assets for Windows"
 mkdir output/windows
