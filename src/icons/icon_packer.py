@@ -124,7 +124,7 @@ def windows_formatter(image_path, base_filename, output_path, scale):
         new_filename += "@{0}x".format(scale)
 
     if "pin_sheet" in new_filename:
-        if scale == 1.5:
+        if scale == 1:
             return
         new_filename = "{0}{1}{2}".format("SearchResultOnMap", os.sep, new_filename)
     elif scale == 2:
