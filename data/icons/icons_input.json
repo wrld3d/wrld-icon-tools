@@ -3,66 +3,6 @@
  "icon-size": 36,
  "icons": [
   {
-   "id": "aroundme",
-   "file": "menu/around_me.svg"
-  },
-  {
-   "id": "spring",
-   "file": "menu/Weather_Spring.svg"
-  },
-  {
-   "id": "autumn",
-   "file": "menu/Weather_Autumn.svg"
-  },
-  {
-   "id": "winter",
-   "file": "menu/Weather_Winter.svg"
-  },
-  {
-   "id": "summer",
-   "file": "menu/Weather_Summer.svg"
-  },
-  {
-   "id": "dawn",
-   "file": "menu/Weather_Dawn.svg"
-  },
-  {
-   "id": "day",
-   "file": "menu/Weather_Day.svg"
-  },
-  {
-   "id": "dusk",
-   "file": "menu/Weather_Dusk.svg"
-  },
-  {
-   "id": "night",
-   "file": "menu/Weather_Night.svg"
-  },
-  {
-   "id": "clear",
-   "file": "menu/Weather_Clear.svg"
-  },
-  {
-   "id": "sun",
-   "file": "menu/Weather_Sun.svg"
-  },
-  {
-   "id": "fog",
-   "file": "menu/Weather_Fog.svg"
-  },
-  {
-   "id": "rain",
-   "file": "menu/Weather_Rain.svg"
-  },
-  {
-   "id": "snow",
-   "file": "menu/Weather_Snow.svg"
-  },
-  {
-   "id": "misc",
-   "file": "pin/pin.svg"
-  },
-  {
    "id": "accessible",
    "file": "menu/accessible.svg"
   },
@@ -79,12 +19,20 @@
    "file": "menu/alert.svg"
   },
   {
+   "id": "aroundme",
+   "file": "menu/around_me.svg"
+  },
+  {
    "id": "art",
    "file": "menu/art.svg"
   },
   {
    "id": "atm",
    "file": "menu/atm.svg"
+  },
+  {
+   "id": "autumn",
+   "file": "menu/Weather_Autumn.svg"
   },
   {
    "id": "badge_reader",
@@ -167,6 +115,10 @@
    "file": "menu/cinema.svg"
   },
   {
+   "id": "clear",
+   "file": "menu/Weather_Clear.svg"
+  },
+  {
    "id": "click_and_collect",
    "file": "menu/click_and_collect.svg"
   },
@@ -189,6 +141,14 @@
   {
    "id": "cycling",
    "file": "menu/cycling.svg"
+  },
+  {
+   "id": "dawn",
+   "file": "menu/Weather_Dawn.svg"
+  },
+  {
+   "id": "day",
+   "file": "menu/Weather_Day.svg"
   },
   {
    "id": "defibrillator",
@@ -217,6 +177,10 @@
   {
    "id": "driveway",
    "file": "menu/driveway.svg"
+  },
+  {
+   "id": "dusk",
+   "file": "menu/Weather_Dusk.svg"
   },
   {
    "id": "education",
@@ -279,12 +243,12 @@
    "file": "menu/fire.svg"
   },
   {
-   "id": "fireplace",
-   "file": "menu/fireplace.svg"
-  },
-  {
    "id": "fire_extinguisher",
    "file": "menu/fire_extinguisher.svg"
+  },
+  {
+   "id": "fireplace",
+   "file": "menu/fireplace.svg"
   },
   {
    "id": "first_aid",
@@ -297,6 +261,10 @@
   {
    "id": "florist",
    "file": "menu/florist.svg"
+  },
+  {
+   "id": "fog",
+   "file": "menu/Weather_Fog.svg"
   },
   {
    "id": "food_drink",
@@ -351,12 +319,12 @@
    "file": "menu/home.svg"
   },
   {
-   "id": "homeware",
-   "file": "menu/homeware.svg"
-  },
-  {
    "id": "home_apartment",
    "file": "menu/home_apartment.svg"
+  },
+  {
+   "id": "homeware",
+   "file": "menu/homeware.svg"
   },
   {
    "id": "hospital",
@@ -439,6 +407,10 @@
    "file": "menu/meter.svg"
   },
   {
+   "id": "misc",
+   "file": "pin/pin.svg"
+  },
+  {
    "id": "mobile_phone",
    "file": "menu/mobile_phone.svg"
   },
@@ -453,6 +425,10 @@
   {
    "id": "my_location",
    "file": "menu/my_location.svg"
+  },
+  {
+   "id": "night",
+   "file": "menu/Weather_Night.svg"
   },
   {
    "id": "night_time",
@@ -547,6 +523,10 @@
    "file": "menu/race_track.svg"
   },
   {
+   "id": "rain",
+   "file": "menu/Weather_Rain.svg"
+  },
+  {
    "id": "reception",
    "file": "menu/reception.svg"
   },
@@ -595,6 +575,10 @@
    "file": "menu/smoke_detector.svg"
   },
   {
+   "id": "snow",
+   "file": "menu/Weather_Snow.svg"
+  },
+  {
    "id": "solar_panels",
    "file": "menu/solar_panels.svg"
   },
@@ -609,6 +593,10 @@
   {
    "id": "sports_field",
    "file": "menu/sports_field.svg"
+  },
+  {
+   "id": "spring",
+   "file": "menu/Weather_Spring.svg"
   },
   {
    "id": "stairs",
@@ -629,6 +617,14 @@
   {
    "id": "subway",
    "file": "menu/subway.svg"
+  },
+  {
+   "id": "summer",
+   "file": "menu/Weather_Summer.svg"
+  },
+  {
+   "id": "sun",
+   "file": "menu/Weather_Sun.svg"
   },
   {
    "id": "sushi",
@@ -739,6 +735,10 @@
    "file": "menu/water_meter.svg"
   },
   {
+   "id": "wi_fi_point",
+   "file": "menu/wi_fi_point.svg"
+  },
+  {
    "id": "wikipedia",
    "file": "menu/wikipedia.svg"
   },
@@ -751,8 +751,8 @@
    "file": "menu/wine.svg"
   },
   {
-   "id": "wi_fi_point",
-   "file": "menu/wi_fi_point.svg"
+   "id": "winter",
+   "file": "menu/Weather_Winter.svg"
   },
   {
    "id": "working_group",

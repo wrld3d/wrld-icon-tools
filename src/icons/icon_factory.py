@@ -31,6 +31,7 @@ class IconFactory:
             output_file = os.path.basename(output_path)
             icon_dtos.append({"name":icon_id, "file":output_file})
 
+        icon_dtos.sort(key=lambda x: x["name"])
         json_dto["icons"]=icon_dtos
 
         with open(json_output_path, 'w') as json_output_file:
