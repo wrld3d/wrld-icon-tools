@@ -43,4 +43,4 @@ perform_s3_copy $dest_url_root $s3_bucket/latest --recursive
 
 echo "Issuing CloudFront invalidation..."
 aws configure set preview.cloudfront true
-aws cloudfront create-invalidation --distribution-id cf_invalidation --paths cf_invalidation_path
+aws cloudfront create-invalidation --distribution-id $cf_invalidation --paths $cf_invalidation_path
