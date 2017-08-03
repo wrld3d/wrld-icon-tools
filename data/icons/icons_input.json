@@ -7,8 +7,8 @@
    "file": "menu/accessible.svg"
   },
   {
-   "id": "accomodation",
-   "file": "menu/accomodation.svg"
+   "id": "accommodation",
+   "file": "menu/accommodation.svg"
   },
   {
    "id": "airport",
@@ -405,10 +405,6 @@
   {
    "id": "meter",
    "file": "menu/meter.svg"
-  },
-  {
-   "id": "misc",
-   "file": "pin/pin.svg"
   },
   {
    "id": "mobile_phone",
