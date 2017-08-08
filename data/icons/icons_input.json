@@ -67,8 +67,8 @@
    "file": "menu/blue_meter.svg"
   },
   {
-   "id": "border_crossing",
-   "file": "menu/border_crossing.svg"
+   "id": "border",
+   "file": "menu/border.svg"
   },
   {
    "id": "burgers",
@@ -123,8 +123,8 @@
    "file": "menu/click_and_collect.svg"
   },
   {
-   "id": "co2_detector",
-   "file": "menu/co2_detector.svg"
+   "id": "co_two_detector",
+   "file": "menu/co_two_detector.svg"
   },
   {
    "id": "cocktail",
@@ -187,8 +187,8 @@
    "file": "menu/education.svg"
   },
   {
-   "id": "electrical_meter",
-   "file": "menu/electrical_meter.svg"
+   "id": "electricity_meter",
+   "file": "menu/electricity_meter.svg"
   },
   {
    "id": "elevator",
@@ -427,8 +427,8 @@
    "file": "menu/Weather_Night.svg"
   },
   {
-   "id": "night_time",
-   "file": "menu/night_time.svg"
+   "id": "night_shopping",
+   "file": "menu/night_shopping.svg"
   },
   {
    "id": "observation_point",
@@ -467,8 +467,8 @@
    "file": "menu/person.svg"
   },
   {
-   "id": "petrol_station",
-   "file": "menu/petrol_station.svg"
+   "id": "fuel",
+   "file": "menu/fuel.svg"
   },
   {
    "id": "pharmacy",
@@ -703,8 +703,8 @@
    "file": "menu/video.svg"
   },
   {
-   "id": "video_conference_telepresence",
-   "file": "menu/video_conference_telepresence.svg"
+   "id": "video_conference",
+   "file": "menu/video_conference.svg"
   },
   {
    "id": "vimeo",
