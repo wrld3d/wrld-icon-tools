@@ -163,6 +163,10 @@
    "file": "menu/department.svg"
   },
   {
+   "id": "desk",
+   "file": "menu/desk.svg"
+  },
+  {
    "id": "digital_sign",
    "file": "menu/digital_sign.svg"
   },
@@ -379,8 +383,16 @@
    "file": "menu/link.svg"
   },
   {
+   "id": "lockers",
+   "file": "menu/lockers.svg"
+  },
+  {
    "id": "lodge",
    "file": "menu/lodge.svg"
+  },
+  {
+   "id": "logistics",
+   "file": "menu/logistics.svg"
   },
   {
    "id": "meeting_room",
@@ -611,6 +623,10 @@
    "file": "menu/steak.svg"
   },
   {
+   "id": "storage",
+   "file": "menu/storage.svg"
+  },
+  {
    "id": "subway",
    "file": "menu/subway.svg"
   },
@@ -761,6 +777,206 @@
   {
    "id": "zoo",
    "file": "menu/zoo.svg"
+  },
+  {
+   "id": "1",
+   "file": "menu/1.svg"
+  },
+  {
+   "id": "2",
+   "file": "menu/2.svg"
+  },
+  {
+   "id": "3",
+   "file": "menu/3.svg"
+  },
+  {
+   "id": "4",
+   "file": "menu/4.svg"
+  },
+  {
+   "id": "5",
+   "file": "menu/5.svg"
+  },
+  {
+   "id": "6",
+   "file": "menu/6.svg"
+  },
+  {
+   "id": "7",
+   "file": "menu/7.svg"
+  },
+  {
+   "id": "8",
+   "file": "menu/8.svg"
+  },
+  {
+   "id": "9",
+   "file": "menu/9.svg"
+  },
+  {
+   "id": "10",
+   "file": "menu/10.svg"
+  },
+  {
+   "id": "11",
+   "file": "menu/11.svg"
+  },
+  {
+   "id": "12",
+   "file": "menu/12.svg"
+  },
+  {
+   "id": "13",
+   "file": "menu/13.svg"
+  },
+  {
+   "id": "14",
+   "file": "menu/14.svg"
+  },
+  {
+   "id": "15",
+   "file": "menu/15.svg"
+  },
+  {
+   "id": "16",
+   "file": "menu/16.svg"
+  },
+  {
+   "id": "17",
+   "file": "menu/17.svg"
+  },
+  {
+   "id": "18",
+   "file": "menu/18.svg"
+  },
+  {
+   "id": "19",
+   "file": "menu/19.svg"
+  },
+  {
+   "id": "20",
+   "file": "menu/20.svg"
+  },
+  {
+   "id": "dir_elevator",
+   "file": "menu/dir_elevator.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_elevator_h",
+   "file": "menu/dir_elevator_h.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_enter_map",
+   "file": "menu/dir_enter_map.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_enter_map_h",
+   "file": "menu/dir_enter_map_h.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_ferry",
+   "file": "menu/dir_ferry.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_ferry_train",
+   "file": "menu/dir_ferry_train.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_fork_left",
+   "file": "menu/dir_fork_left.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_fork_right",
+   "file": "menu/dir_fork_right.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_merge",
+   "file": "menu/dir_merge.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_ramp_left",
+   "file": "menu/dir_ramp_left.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_ramp_right",
+   "file": "menu/dir_ramp_right.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_roundabout_left",
+   "file": "menu/dir_roundabout_left.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_roundabout_right",
+   "file": "menu/dir_roundabout_right.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_route_end",
+   "file": "menu/dir_route_end.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_route_start",
+   "file": "menu/dir_route_start.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_straight_ahead",
+   "file": "menu/dir_straight_ahead.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_turn_left",
+   "file": "menu/dir_turn_left.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_turn_right",
+   "file": "menu/dir_turn_right.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_turn_sharp_left",
+   "file": "menu/dir_turn_sharp_left.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_turn_sharp_right",
+   "file": "menu/dir_turn_sharp_right.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_u_turn_left",
+   "file": "menu/dir_u_turn_left.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_u_turn_right",
+   "file": "menu/dir_u_turn_right.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_veer_left",
+   "file": "menu/dir_veer_left.svg",
+   "icon-size":24
+  },
+  {
+   "id": "dir_veer_right",
+   "file": "menu/dir_veer_right.svg",
+   "icon-size":24
   }
  ]
 }

@@ -2,11 +2,14 @@
   <title>pin</title>
   <g id="Layer_2" data-name="Layer 2">
     <g id="Icons">
-      <g>
-        <rect width="72" height="72" style="fill: #fff;opacity: 0"/>
-        <path d="M54,24a18,18,0,1,0-34.48,7.23h0l.41.82c.1.2.19.4.29.59L36,66,52.36,31.5h0A17.9,17.9,0,0,0,54,24ZM36,39A15,15,0,1,1,51,24,15,15,0,0,1,36,39Z" style="fill: #0d8549"/>
-        <circle cx="36" cy="24" r="6" style="fill: #0e8c4d"/>
+      <g style="opacity: 0">
+        <rect width="72" height="72" rx="36" ry="36" style="fill: #fff"/>
       </g>
+    </g>
+    <g id="Icons_Labels" data-name="Icons Labels">
+      <circle cx="36" cy="36" r="9" style="fill: #0d8549"/>
+      <path d="M36,22A14,14,0,1,1,22,36,14,14,0,0,1,36,22m0-4.5A18.5,18.5,0,1,0,54.5,36,18.52,18.52,0,0,0,36,17.5Z" style="fill: #0d8549"/>
+      <path d="M36,14A22,22,0,1,1,14,36,22,22,0,0,1,36,14m0-3A25,25,0,1,0,61,36,25,25,0,0,0,36,11Z" style="fill: #0d8549"/>
     </g>
   </g>
 </svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>lockers</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <path d="M21,12V93h3V90H39v3h3V12Zm3,30a1.5,1.5,0,0,1,3,0v9a1.5,1.5,0,0,1-3,0ZM39,84H24V81H39Zm0-54H24V27H39Zm0-6H24V21H39Zm0-6H24V15H39Z" style="fill: #0081a1"/>
+        <path d="M45,12V93h3V90H63v3h3V12Zm3,30a1.5,1.5,0,0,1,3,0v9a1.5,1.5,0,0,1-3,0ZM63,84H48V81H63Zm0-54H48V27H63Zm0-6H48V21H63Zm0-6H48V15H63Z" style="fill: #0081a1"/>
+        <path d="M69,12V93h3V90H87v3h3V12Zm3,30a1.5,1.5,0,0,1,3,0v9a1.5,1.5,0,0,1-3,0ZM87,84H72V81H87Zm0-54H72V27H87Zm0-6H72V21H87Zm0-6H72V15H87Z" style="fill: #0081a1"/>
+      </g>
+    </g>
+  </g>
+</svg>

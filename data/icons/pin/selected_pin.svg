@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="114"
+   width="114"
+   id="svg18"
+   version="1.1"
+   viewBox="0 0 114 114">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>selected_pin</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs22" />
+  <title
+     id="title2">selected_pin</title>
+  <g
+     transform="translate(9,0.35)"
+     data-name="Layer 2"
+     id="Layer_2">
+    <g
+       id="Icons">
+      <rect
+         y="0"
+         x="0"
+         id="rect4"
+         style="opacity:0;fill:#ffffff"
+         height="114"
+         width="96" />
+      <g
+         id="g14">
+        <path
+           id="path6"
+           style="fill:#ffffff"
+           d="M 48,84 A 35.88,35.88 0 0 1 34.73,81.46 h -19 L 48,114 80.25,81.46 h -19 A 35.89,35.89 0 0 1 48,84 Z" />
+        <path
+           id="path8"
+           style="fill:#ffffff"
+           d="M 48,6 A 42,42 0 1 1 6,48 42,42 0 0 1 48,6 M 48,1.5 A 46.5,46.5 0 1 0 94.5,48 46.55,46.55 0 0 0 48,1.49 Z" />
+        <path
+           id="path10"
+           style="fill:#1256b0"
+           d="M 48,84 A 35.82,35.82 0 0 1 27.43,77.54 H 18.16 L 48,107.65 77.84,77.53 H 68.57 A 35.82,35.82 0 0 1 48,84 Z" />
+        <path
+           id="path12"
+           style="fill:#1256b0"
+           d="M 48,12 A 36,36 0 1 1 12,48 36,36 0 0 1 48,12 M 48,6 A 42,42 0 1 0 90,48 42,42 0 0 0 48,6 Z" />
+      </g>
+    </g>
+  </g>
+</svg>

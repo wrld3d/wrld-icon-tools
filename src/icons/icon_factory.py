@@ -9,8 +9,7 @@ class IconFactory:
     @staticmethod
     def create_icons(input_manifest, output_path_param, scale, json_output_path):
 
-        icon_size = int(input_manifest["icon-size"])
-        image_size = int(icon_size * scale)
+        base_icon_size = int(input_manifest["icon-size"])
 
         json_dto = {}
         icon_dtos = []
@@ -24,6 +23,9 @@ class IconFactory:
             color_override = None if "color" not in icon_definition else str(icon_definition["color"])
             background_color = None if "background-color" not in icon_definition else str(icon_definition["background-color"])
 
+            icon_size_override = None if "icon-size" not in icon_definition else int(icon_definition["icon-size"])
+            icon_size = icon_size_override if icon_size_override is not None else base_icon_size
+            image_size = int(icon_size * scale)
             image = Image.new('RGBA', (image_size, image_size))
             IconImageHelpers.draw_menu_icon(image, icon_file, (0,0), icon_size, scale, color_override, background_color)
             output_path = "{0}{1}.png".format(output_path_param, icon_id)

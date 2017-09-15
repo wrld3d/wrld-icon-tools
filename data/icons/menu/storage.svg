@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>storage</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="108" height="108" style="fill: #fff;opacity: 0"/>
+        <rect x="12" y="18" width="84" height="9" style="fill: #907300"/>
+        <path d="M18,30V90H90V30ZM36,72V84H30V72H24l9-12,9,12ZM60,45H42a4.5,4.5,0,0,1,0-9H60a4.5,4.5,0,0,1,0,9ZM78,72V84H72V72H66l9-12,9,12Z" style="fill: #907300"/>
+      </g>
+    </g>
+  </g>
+</svg>

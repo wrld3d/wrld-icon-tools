@@ -179,6 +179,10 @@
    "file": "pin/department.svg"
   },
   {
+   "id": "desk",
+   "file": "pin/desk.svg"
+  },
+  {
    "id": "digital_sign",
    "file": "pin/digital_sign.svg"
   },
@@ -387,8 +391,16 @@
    "file": "pin/link.svg"
   },
   {
+   "id": "lockers",
+   "file": "pin/lockers.svg"
+  },
+  {
    "id": "lodge",
    "file": "pin/lodge.svg"
+  },
+  {
+   "id": "logistics",
+   "file": "pin/logistics.svg"
   },
   {
    "id": "meeting_room",
@@ -551,6 +563,13 @@
    "file": "pin/security_camera.svg"
   },
   {
+    "id": "selected_pin",
+    "file": "pin/selected_pin.svg",
+    "icon-size": 38,
+    "cell-size": 42,
+    "background": "none"
+  },
+  {
    "id": "shooting",
    "file": "pin/shooting.svg"
   },
@@ -601,6 +620,10 @@
   {
    "id": "steak",
    "file": "pin/steak.svg"
+  },
+  {
+   "id": "storage",
+   "file": "pin/storage.svg"
   },
   {
    "id": "subway",
@@ -741,9 +764,154 @@
   {
    "id": "zoo",
    "file": "pin/zoo.svg"
+  },
+  {
+   "id": "1",
+   "file": "pin/1.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "2",
+   "file": "pin/2.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "3",
+   "file": "pin/3.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "4",
+   "file": "pin/4.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "5",
+   "file": "pin/5.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "6",
+   "file": "pin/6.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "7",
+   "file": "pin/7.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "8",
+   "file": "pin/8.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "9",
+   "file": "pin/9.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "10",
+   "file": "pin/10.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "11",
+   "file": "pin/11.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "12",
+   "file": "pin/12.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "13",
+   "file": "pin/13.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "14",
+   "file": "pin/14.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "15",
+   "file": "pin/15.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "16",
+   "file": "pin/16.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "17",
+   "file": "pin/17.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "18",
+   "file": "pin/18.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "19",
+   "file": "pin/19.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "20",
+   "file": "pin/20.svg",
+   "icon-size": 32,
+   "cell-size": 38
+  },
+  {
+   "id": "dir_elevator",
+   "file": "pin/dir_elevator.svg",
+   "icon-size": 48,
+   "cell-size": 54
+  },
+  {
+   "id": "dir_enter_map",
+   "file": "pin/dir_enter_map.svg",
+   "icon-size": 48,
+   "cell-size": 54
+  },
+  {
+   "id": "dir_route_start",
+   "file": "pin/dir_route_start.svg",
+   "icon-size": 40,
+   "cell-size": 46
+  },
+  {
+   "id": "dir_route_end",
+   "file": "pin/dir_route_end.svg",
+   "icon-size": 48,
+   "cell-size": 54,
+   "background": "none"
   }
  ],
- "sheet-size": 420,
+ "sheet-size": 512,
  "mode": "sheet",
  "icon-size": 24,
  "cell-size": 28

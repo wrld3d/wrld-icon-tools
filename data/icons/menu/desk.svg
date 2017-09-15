@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>desk</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="108" height="108" style="fill: #fff;opacity: 0"/>
+        <g>
+          <path d="M48,48V42H63V15H27V42H42v6H12v9h3V93h9V57H66V93h3V90H90v3h3V57h3V48ZM33,36V21H57V36ZM90,87H69V75H90Zm0-15H69V60H90Z" style="fill: #907300"/>
+          <path d="M78,66h3v0a1.49,1.49,0,0,0,0-3v0H78a1.5,1.5,0,0,0,0,3Z" style="fill: #907300"/>
+          <path d="M78,81h3v0a1.49,1.49,0,0,0,0-3v0H78a1.5,1.5,0,0,0,0,3Z" style="fill: #907300"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

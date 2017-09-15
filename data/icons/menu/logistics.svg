@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>logistics</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <rect width="108" height="108" style="fill: #fff;opacity: 0"/>
+        <g>
+          <path d="M93,69V51L84,30H66V69H40.92A12,12,0,0,1,45,78H69a12,12,0,0,1,24,0h6V69ZM72,51V36h9l6,15Z" style="fill: #e61066"/>
+          <path d="M33,69a9,9,0,1,0,9,9A9,9,0,0,0,33,69Zm0,13.5A4.5,4.5,0,1,1,37.5,78,4.5,4.5,0,0,1,33,82.5Z" style="fill: #e61066"/>
+          <path d="M81,69a9,9,0,1,0,9,9A9,9,0,0,0,81,69Zm0,13.5A4.5,4.5,0,1,1,85.5,78,4.5,4.5,0,0,1,81,82.5Z" style="fill: #e61066"/>
+          <path d="M25.08,69H15v9h6A12,12,0,0,1,25.08,69Z" style="fill: #e61066"/>
+          <path d="M9,21V66H63V21ZM30,54V48H15V39H30V33L45,43.5Z" style="fill: #e61066"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
