@@ -14,7 +14,7 @@ function perform_s3_copy() {
   destination_url=$2
   recursive=$3
 
-  aws s3 cp $source_path $destination_url $recursive --acl public-read
+  aws s3 cp $source_path $destination_url $recursive --exclude '*' --include "*.png" --acl public-read
   if [ $? -ne 0 ] ; then  
     echo "Failed to upload site" >&2
     echo "If unable to locate credentials, set AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY environment variables" >&2
@@ -28,7 +28,7 @@ function upload_assets() {
   perform_s3_copy $output_path/$platform_suffix $dest_url_root/assets/$platform_suffix --recursive
 }
 
-platforms=(ios android windows js)
+platforms=(0_75x 1x 1_5x 2x 3x js)
 
 for platform in "${platforms[@]}"
 do
