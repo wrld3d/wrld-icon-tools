@@ -766,149 +766,71 @@
    "file": "pin/zoo.svg"
   },
   {
-   "id": "1",
-   "file": "pin/1.svg",
+   "id": "nav_enter",
+   "file": "pin/Nav/nav_enter.svg",
    "icon-size": 32,
    "cell-size": 38
   },
   {
-   "id": "2",
-   "file": "pin/2.svg",
+   "id": "nav_exit",
+   "file": "pin/Nav/nav_exit.svg",
    "icon-size": 32,
    "cell-size": 38
   },
   {
-   "id": "3",
-   "file": "pin/3.svg",
+   "id": "nav_start",
+   "file": "pin/Nav/nav_start.svg",
    "icon-size": 32,
    "cell-size": 38
   },
   {
-   "id": "4",
-   "file": "pin/4.svg",
+   "id": "nav_finish",
+   "file": "pin/Nav/nav_finish.svg",
    "icon-size": 32,
    "cell-size": 38
   },
   {
-   "id": "5",
-   "file": "pin/5.svg",
+   "id": "nav_stairs_up",
+   "file": "pin/Nav/nav_stairs_up.svg",
    "icon-size": 32,
    "cell-size": 38
   },
   {
-   "id": "6",
-   "file": "pin/6.svg",
+   "id": "nav_stairs_down",
+   "file": "pin/Nav/nav_stairs_down.svg",
    "icon-size": 32,
    "cell-size": 38
   },
   {
-   "id": "7",
-   "file": "pin/7.svg",
+   "id": "nav_escalator_up",
+   "file": "pin/Nav/nav_escalator_up.svg",
    "icon-size": 32,
    "cell-size": 38
   },
   {
-   "id": "8",
-   "file": "pin/8.svg",
+   "id": "nav_escalator_down",
+   "file": "pin/Nav/nav_escalator_down.svg",
    "icon-size": 32,
    "cell-size": 38
   },
   {
-   "id": "9",
-   "file": "pin/9.svg",
+   "id": "nav_lift",
+   "file": "pin/Nav/nav_lift.svg",
    "icon-size": 32,
    "cell-size": 38
   },
   {
-   "id": "10",
-   "file": "pin/10.svg",
+   "id": "nav_crosslights",
+   "file": "pin/Nav/nav_crosslights.svg",
    "icon-size": 32,
    "cell-size": 38
   },
   {
-   "id": "11",
-   "file": "pin/11.svg",
-   "icon-size": 32,
-   "cell-size": 38
-  },
-  {
-   "id": "12",
-   "file": "pin/12.svg",
-   "icon-size": 32,
-   "cell-size": 38
-  },
-  {
-   "id": "13",
-   "file": "pin/13.svg",
-   "icon-size": 32,
-   "cell-size": 38
-  },
-  {
-   "id": "14",
-   "file": "pin/14.svg",
-   "icon-size": 32,
-   "cell-size": 38
-  },
-  {
-   "id": "15",
-   "file": "pin/15.svg",
-   "icon-size": 32,
-   "cell-size": 38
-  },
-  {
-   "id": "16",
-   "file": "pin/16.svg",
-   "icon-size": 32,
-   "cell-size": 38
-  },
-  {
-   "id": "17",
-   "file": "pin/17.svg",
-   "icon-size": 32,
-   "cell-size": 38
-  },
-  {
-   "id": "18",
-   "file": "pin/18.svg",
-   "icon-size": 32,
-   "cell-size": 38
-  },
-  {
-   "id": "19",
-   "file": "pin/19.svg",
-   "icon-size": 32,
-   "cell-size": 38
-  },
-  {
-   "id": "20",
-   "file": "pin/20.svg",
-   "icon-size": 32,
-   "cell-size": 38
-  },
-  {
-   "id": "dir_elevator",
-   "file": "pin/dir_elevator.svg",
-   "icon-size": 48,
-   "cell-size": 54
-  },
-  {
-   "id": "dir_enter_map",
-   "file": "pin/dir_enter_map.svg",
-   "icon-size": 48,
-   "cell-size": 54
-  },
-  {
-   "id": "dir_route_start",
-   "file": "pin/dir_route_start.svg",
-   "icon-size": 40,
-   "cell-size": 46
-  },
-  {
-   "id": "dir_route_end",
-   "file": "pin/dir_route_end.svg",
-   "icon-size": 48,
-   "cell-size": 54,
-   "background": "none"
+   "id": "nav_container",
+   "file": "pin/Nav/nav_container.svg",
+   "icon-size": 53,
+   "cell-size": 60,
+    "background": "none"
   }
  ],
  "sheet-size": 512,
