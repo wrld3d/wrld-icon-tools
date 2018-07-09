@@ -295,6 +295,10 @@
    "file": "pin/fridge.svg"
   },
   {
+   "id": "fuel",
+   "file": "pin/fuel.svg"
+  },
+  {
    "id": "gallery",
    "file": "pin/gallery.svg"
   },
@@ -483,8 +487,8 @@
    "file": "pin/person.svg"
   },
   {
-   "id": "fuel",
-   "file": "pin/fuel.svg"
+   "id": "penguin",
+   "file": "pin/penguin.svg"
   },
   {
    "id": "pharmacy",

@@ -113,6 +113,7 @@
     { "tag": "parking", "readable_tag": "Parking", "icon_key": "parking" },
     { "tag": "payphone", "readable_tag": "Payphone", "icon_key": "payphone" },
     { "tag": "person", "readable_tag": "Person", "icon_key": "person" },
+    { "tag": "penguin", "readable_tag": "Penguin", "icon_key": "penguin" },
     { "tag": "pharmacy", "readable_tag": "Pharmacy", "icon_key": "pharmacy" },
     { "tag": "photo", "readable_tag": "Photo", "icon_key": "photo" },
     { "tag": "picasa", "readable_tag": "Picasa", "icon_key": "picasa" },

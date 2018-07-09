@@ -283,8 +283,12 @@
    "file": "menu/forest.svg"
   },
   {
-   "id": "fridge",
-   "file": "menu/fridge.svg"
+    "id": "fridge",
+    "file": "menu/fridge.svg"
+  },
+  {
+   "id": "fuel",
+   "file": "menu/fuel.svg"
   },
   {
    "id": "gallery",
@@ -475,12 +479,12 @@
    "file": "menu/payphone.svg"
   },
   {
-   "id": "person",
-   "file": "menu/person.svg"
+    "id": "person",
+    "file": "menu/person.svg"
   },
   {
-   "id": "fuel",
-   "file": "menu/fuel.svg"
+   "id": "penguin",
+   "file": "menu/penguin.svg"
   },
   {
    "id": "pharmacy",
