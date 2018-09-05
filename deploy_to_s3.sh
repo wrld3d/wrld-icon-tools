@@ -14,7 +14,7 @@ function perform_s3_copy() {
   destination_url=$2
   recursive=$3
 
-  aws s3 cp $source_path $destination_url $recursive --exclude '*' --include "*.png" --acl public-read
+  aws s3 cp $source_path $destination_url $recursive --exclude '*' --include "*.png" --include "*.json" --acl public-read
   if [ $? -ne 0 ] ; then  
     echo "Failed to upload site" >&2
     echo "If unable to locate credentials, set AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY environment variables" >&2
