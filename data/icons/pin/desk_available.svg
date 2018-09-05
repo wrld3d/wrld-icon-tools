@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>desk_available</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="36" cy="36" r="36" style="fill: #fff;opacity: 0"/>
+        <g>
+          <path d="M33,30V27h9V9H18V27h9v3H9v6h3v5a17,17,0,0,1,25.94-5H45V57h3V54H60v3h3V36h1V30ZM21,24V12H39V24ZM60,51H48V45H60Zm0-9H48V36H60Z" style="fill: #378006"/>
+          <polygon points="12 57 12 57 12 57 12 57" style="fill: #378006"/>
+        </g>
+        <polygon points="41.35 43.26 26.5 58.11 22.26 62.35 11.65 51.74 15.89 47.5 22.26 53.86 37.11 39.02 41.35 43.26" style="fill: #4db308"/>
+        <g>
+          <path d="M53.5,40h1a1.5,1.5,0,0,0,0-3h-1a1.5,1.5,0,0,0,0,3Z" style="fill: #378006"/>
+          <path d="M53.5,49h1a1.5,1.5,0,0,0,0-3h-1a1.5,1.5,0,0,0,0,3Z" style="fill: #378006"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

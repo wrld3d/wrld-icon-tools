@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>temerature_low</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <rect x="9" y="36" width="27" height="9" style="fill: #0068ff"/>
+        <path d="M69,63.69V22.5a13.5,13.5,0,0,0-27,0V63.69a20.25,20.25,0,1,0,27,0ZM55.5,94.5a15.74,15.74,0,0,1-11-27,15.36,15.36,0,0,1,2-1.67V22.5a9,9,0,0,1,18,0V65.83a15.36,15.36,0,0,1,2,1.67,15.74,15.74,0,0,1-11,27Z" style="fill: #0068ff"/>
+        <path d="M59.94,71H60V57H51V71h.06a9,9,0,1,0,8.88,0Z" style="fill: #0068ff"/>
+      </g>
+    </g>
+  </g>
+</svg>

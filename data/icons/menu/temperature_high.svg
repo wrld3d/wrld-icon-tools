@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>temperature_high</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <rect x="72" y="36" width="27" height="9" style="fill: #d82121"/>
+        <rect x="72" y="36" width="27" height="9" transform="translate(126 -45) rotate(90)" style="fill: #d82121"/>
+        <path d="M66,63.69V22.5a13.5,13.5,0,0,0-27,0V63.69a20.25,20.25,0,1,0,27,0ZM52.5,94.5a15.74,15.74,0,0,1-11-27,15.36,15.36,0,0,1,2-1.67V22.5a9,9,0,0,1,18,0V65.83a15.36,15.36,0,0,1,2,1.67,15.74,15.74,0,0,1-11,27Z" style="fill: #d82121"/>
+        <path d="M56.94,71H57V22.5a4.5,4.5,0,0,0-9,0V71h.06a9,9,0,1,0,8.88,0Z" style="fill: #d82121"/>
+      </g>
+    </g>
+  </g>
+</svg>

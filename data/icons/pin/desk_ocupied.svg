@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>desk_ocupied</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <g style="opacity: 0">
+          <circle cx="36" cy="36" r="36" style="fill: #fff"/>
+        </g>
+        <g>
+          <polygon points="12 57 12 57 12 57 12 57" style="fill: #bf0218"/>
+          <path d="M33,30V27h9V9H18V27h9v3H9v6h3v5a17,17,0,0,1,25.94-5H45V57h3V54H60v3h3V36h1V30ZM21,24V12H39V24ZM60,51H48V45H60Zm0-9H48V36H60Z" style="fill: #bf0218"/>
+        </g>
+        <g>
+          <path d="M53.5,40h1a1.5,1.5,0,0,0,0-3h-1a1.5,1.5,0,0,0,0,3Z" style="fill: #bf0218"/>
+          <path d="M53.5,49h1a1.5,1.5,0,0,0,0-3h-1a1.5,1.5,0,0,0,0,3Z" style="fill: #bf0218"/>
+        </g>
+        <polygon points="38.66 41.59 34.41 37.34 27 44.75 19.59 37.34 15.34 41.59 22.75 49 15.34 56.41 19.59 60.66 27 53.25 34.41 60.66 38.66 56.41 31.25 49 38.66 41.59" style="fill: #eb021d"/>
+      </g>
+    </g>
+  </g>
+</svg>

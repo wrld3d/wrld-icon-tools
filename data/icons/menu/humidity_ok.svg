@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>humidity_ok</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <path d="M80.18,58.91h0l-.65-1.3c-.15-.31-.29-.63-.46-.94L54,9,28,58.48h0a28.6,28.6,0,1,0,52.16.43Zm-7.75.36L51.21,80.49l-6.36,6.36L30,72l6.36-6.36,8.49,8.48L66.06,52.91Z" style="fill: #378006"/>
+      </g>
+    </g>
+  </g>
+</svg>

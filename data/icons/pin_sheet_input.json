@@ -47,6 +47,18 @@
    "file": "pin/accommodation.svg"
   },
   {
+   "id": "air_quality",
+   "file": "pin/air_quality.svg"
+  },
+  {
+   "id": "air_quality_alert",
+   "file": "pin/air_quality_alert.svg"
+  },
+  {
+   "id": "air_quality_good",
+   "file": "pin/air_quality_good.svg"
+  },
+  {
    "id": "airport",
    "file": "pin/airport.svg"
   },
@@ -181,6 +193,14 @@
   {
    "id": "desk",
    "file": "pin/desk.svg"
+  },
+  {
+   "id": "desk_available",
+   "file": "pin/desk_available.svg"
+  },
+  {
+   "id": "desk_ocupied",
+   "file": "pin/desk_ocupied.svg"
   },
   {
    "id": "digital_sign",
@@ -353,6 +373,18 @@
   {
    "id": "hotel",
    "file": "pin/hotel.svg"
+  },
+  {
+   "id": "humidity_high",
+   "file": "pin/humidity_high.svg"
+  },
+  {
+   "id": "humidity_low",
+   "file": "pin/humidity_low.svg"
+  },
+  {
+   "id": "humidity_ok",
+   "file": "pin/humidity_ok.svg"
   },
   {
    "id": "hvac_unit",
@@ -648,6 +680,14 @@
   {
    "id": "telephone_booth",
    "file": "pin/telephone_booth.svg"
+  },
+  {
+   "id": "temperature_high",
+   "file": "pin/temperature_high.svg"
+  },
+  {
+   "id": "temperature_low",
+   "file": "pin/temperature_low.svg"
   },
   {
    "id": "temperature_sensor",

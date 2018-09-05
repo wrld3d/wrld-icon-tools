@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <title>humidity_high</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Icons">
+      <g>
+        <circle cx="54" cy="54" r="54" style="fill: #fff;opacity: 0"/>
+        <path d="M81.47,58.91h0l-.68-1.3c-.16-.31-.31-.63-.48-.94L54,9,26.73,58.48h0A27.35,27.35,0,0,0,24,70.4C24,86.19,37.43,99,54,99S84,86.19,84,70.4A27.38,27.38,0,0,0,81.47,58.91ZM72,75H60V87H51V75H39V66H51V54h9V66H72Z" style="fill: #0068ff"/>
+      </g>
+    </g>
+  </g>
+</svg>
