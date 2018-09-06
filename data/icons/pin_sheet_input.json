@@ -375,6 +375,10 @@
    "file": "pin/hotel.svg"
   },
   {
+   "id": "humidity",
+   "file": "pin/humidity.svg"
+  },
+  {
    "id": "humidity_high",
    "file": "pin/humidity_high.svg"
   },

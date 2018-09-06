@@ -85,6 +85,7 @@
     { "tag": "hospital", "readable_tag": "Hospital", "icon_key": "hospital" },
     { "tag": "hostel", "readable_tag": "Hostel", "icon_key": "hostel" },
     { "tag": "hotel", "readable_tag": "Hotel", "icon_key": "hotel" },
+    { "tag": "humidity", "readable_tag": "Humidity", "icon_key": "humidity" },
     { "tag": "humidity_high", "readable_tag": "Humidity High", "icon_key": "humidity_high" },
     { "tag": "humidity_low", "readable_tag": "Humidity Low", "icon_key": "humidity_low" },
     { "tag": "humidity_ok", "readable_tag": "Humidity OK", "icon_key": "humidity_ok" },
