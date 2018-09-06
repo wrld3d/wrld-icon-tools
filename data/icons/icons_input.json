@@ -367,6 +367,10 @@
    "file": "menu/hotel.svg"
   },
   {
+   "id": "humidity",
+   "file": "menu/humidity.svg"
+  },
+  {
    "id": "humidity_high",
    "file": "menu/humidity_high.svg"
   },
