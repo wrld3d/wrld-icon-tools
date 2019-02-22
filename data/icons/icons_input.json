@@ -1025,6 +1025,56 @@
    "id": "dir_veer_right",
    "file": "menu/dir_veer_right.svg",
    "icon-size":24
+  },
+  {
+   "id": "nav_enter",
+   "file": "pin/Nav/nav_enter.svg",
+   "icon-size": 32
+  },
+  {
+   "id": "nav_exit",
+   "file": "pin/Nav/nav_exit.svg",
+   "icon-size": 32
+  },
+  {
+   "id": "nav_start",
+   "file": "pin/Nav/nav_start.svg",
+   "icon-size": 32
+  },
+  {
+   "id": "nav_finish",
+   "file": "pin/Nav/nav_finish.svg",
+   "icon-size": 32
+  },
+  {
+   "id": "nav_stairs_up",
+   "file": "pin/Nav/nav_stairs_up.svg",
+   "icon-size": 32
+  },
+  {
+   "id": "nav_stairs_down",
+   "file": "pin/Nav/nav_stairs_down.svg",
+   "icon-size": 32
+  },
+  {
+   "id": "nav_escalator_up",
+   "file": "pin/Nav/nav_escalator_up.svg",
+   "icon-size": 32
+  },
+  {
+   "id": "nav_escalator_down",
+   "file": "pin/Nav/nav_escalator_down.svg",
+   "icon-size": 32
+  },
+  {
+   "id": "nav_lift",
+   "file": "pin/Nav/nav_lift.svg",
+   "icon-size": 32
+  },
+  {
+   "id": "nav_crosslights",
+   "file": "pin/Nav/nav_crosslights.svg",
+   "icon-size": 32
   }
  ]
 }
