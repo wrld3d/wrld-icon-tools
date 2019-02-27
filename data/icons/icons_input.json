@@ -1075,6 +1075,11 @@
    "id": "nav_crosslights",
    "file": "pin/Nav/nav_crosslights.svg",
    "icon-size": 32
+  },
+  {
+   "id": "nav_container",
+   "file": "pin/Nav/nav_container.svg",
+   "icon-size": 53
   }
  ]
 }
