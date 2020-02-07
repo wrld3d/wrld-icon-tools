@@ -1,5 +1,6 @@
 # Output directories.
 output/
+output_webgl/
 test/
 
 # Virtual environments.
@@ -97,3 +98,6 @@ ENV/
 
 # JetBrains metadata
 .idea/
+
+# VS Code settings
+.vscode/
