@@ -4,6 +4,7 @@ import os
 import sys
 import traceback
 from icon_factory import IconFactory
+from scalable_icon_factory import ScalableIconFactory
 from pin_sheet_factory import PinSheetFactory
 from input_validator import InputValidator
 
@@ -15,7 +16,7 @@ def print_usage():
     print 'Options: '
     print '-i --input_json       Input json manifest describing what icons to process (and how to process them)'
     print '-o --output           For pin sheet, output pin sheet name. For icons, output with this prefix + name.png'
-    print '-s --scale            Scale factor. i.e. 2 = retina asset size (@2x)'
+    print '-s --scale            Scale factor. i.e. 2 = retina asset size (@2x). Leave absent/blank to get SVGs.'
     print '-j --json_file_output Json manifest output for describing the assets generated'
 
 def get_args(argv):
@@ -54,7 +55,7 @@ def __validate_params(input_json_path, output_path, scale, json_file):
     if not os.path.exists(input_json_path):
         raise ValueError('path not found: ' + input_json_path)
 
-    if scale <= 0:
+    if scale and scale <= 0:
         raise ValueError('output size must be > 0: ' + scale)
 
 def process_input_manifest(input_json_path_param):
@@ -78,7 +79,7 @@ if __name__ == "__main__":
 
         print 'input_json_path_param: ' + input_json_path_param
         print 'output_path_param: ' + output_path_param
-        print 'scale: ' + str(scale_param)
+        print 'scale: ' + (str(scale_param) if scale_param else "unspecified. Producing SVGs.")
         print 'json_file_param: ' + str(json_file_param)
 
         input_manifest = process_input_manifest(input_json_path_param)
@@ -88,7 +89,10 @@ if __name__ == "__main__":
         if InputValidator.MODE_PIN_SHEET in mode:
             PinSheetFactory.create_pin_sheet(input_manifest, output_path_param, scale_param, json_file_param)
         elif InputValidator.MODE_ICONS in mode:
-            IconFactory.create_icons(input_manifest, output_path_param, scale_param, json_file_param)
+            if scale_param:
+                IconFactory.create_icons(input_manifest, output_path_param, scale_param, json_file_param)
+            else:
+                ScalableIconFactory.create_icons(input_manifest, output_path_param, json_file_param)
         else:
             raise ValueError("Unknown mode: " + mode)
 

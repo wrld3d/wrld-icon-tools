@@ -31,4 +31,7 @@ mkdir -p output/1_5x
 python ./src/icons/icon_renderer.py -i data/icons/pin_sheet_input.json -s 1.5 -o output/1_5x/pin_sheet -j output/1_5x/pin_sheet.json
 python ./src/icons/icon_renderer.py -i data/icons/icons_input.json -s 1.5 -o output/1_5x/icon1_ -j output/1_5x/icons.json
 
+mkdir -p output/svg
+python ./src/icons/icon_renderer.py -i data/icons/icons_input.json -o output/svg/icon1_ -j output/svg/icons.json
+
 echo "Assets created for required resolutions in /output/"
