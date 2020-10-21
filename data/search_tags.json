@@ -167,6 +167,7 @@
     { "tag": "ticket", "readable_tag": "Tickets", "icon_key": "ticket" },
     { "tag": "toilet_ladies", "readable_tag": "Toilets (Female)", "icon_key": "toilet_ladies" },
     { "tag": "toilet_men", "readable_tag": "Toilets (Male)", "icon_key": "toilet_men" },
+    { "tag": "toilet_generic", "readable_tag": "Toilet", "icon_key": "toilet_generic" },
     { "tag": "tourist_info", "readable_tag": "Tourist info", "icon_key": "tourist_info" },
     { "tag": "town_hall", "readable_tag": "Town hall", "icon_key": "town_hall" },
     { "tag": "traffic_counter", "readable_tag": "Traffic counter", "icon_key": "traffic_counter" },
