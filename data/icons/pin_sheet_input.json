@@ -714,6 +714,10 @@
    "file": "pin/toilet_men.svg"
   },
   {
+   "id": "toilet_generic",
+   "file": "pin/toilet_generic.svg"
+  },
+  {
    "id": "tourist_info",
    "file": "pin/tourist_info.svg"
   },
