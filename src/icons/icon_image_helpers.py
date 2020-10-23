@@ -119,7 +119,7 @@ class IconImageHelpers:
             icon_source = os.path.abspath(icon_source)
             temp_icon_path = os.path.abspath(temp_icon_path)
 
-        inkscape_args = ["inkscape", "{0}".format(icon_source), "-z", "-e", temp_icon_path, "-w", str(icon_size), "-h", str(icon_size)]
+        inkscape_args = ["inkscape", "{0}".format(icon_source), "-o", temp_icon_path, "-w", str(icon_size), "-h", str(icon_size)]
         inkscape_process = subprocess.Popen(inkscape_args, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.PIPE)
         return_code = inkscape_process.wait()
         process_stdout, process_stderr = inkscape_process.communicate("")
