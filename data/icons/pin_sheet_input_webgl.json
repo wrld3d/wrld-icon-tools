@@ -19,6 +19,18 @@
    "file": "pin/bathroom.svg"
   },
   {
+   "id": "toilet_men",
+   "file": "pin/toilet_men.svg"
+  },
+  {
+   "id": "toilet_ladies",
+   "file": "pin/toilet_ladies.svg"
+  },
+  {
+   "id": "toilet_generic",
+   "file": "pin/toilet_generic.svg"
+  },
+  {
    "id": "elevator",
    "file": "pin/elevator.svg"
   },
