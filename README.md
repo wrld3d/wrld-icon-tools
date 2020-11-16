@@ -13,9 +13,9 @@
 
 ## Summary
 
-This repository contains the code for preparing icons for use with the [WRLD SDK](http://www.eegeo.com/), a cross-platform, OpenGL-based library for displaying beautiful, engaging 3D maps.
+This repository contains the code for preparing icons for use with the [WRLD SDK](http://www.wrld3d.com/), a cross-platform, OpenGL-based library for displaying beautiful, engaging 3D maps.
 
-The code in this repository takes a set of vector icons in SVG format, converts them into bitmap images at resolutions suitable for a wide range of mobile devices and combines into "sheets" like for use by the eeGeo SDK.
+The code in this repository takes a set of vector icons in SVG format, converts them into bitmap images at resolutions suitable for a wide range of mobile devices and combines into "sheets" like for use by the WRLD SDK.
 
 ## Support
 
